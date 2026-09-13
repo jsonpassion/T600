@@ -1,6 +1,6 @@
 # Six Hundred Content — TEPS 어휘 콘텐츠 리포
 
-> **Six Hundred은 작업용 코드네임입니다** (만점 600에서 따옴; 앱 브랜드 확정 시 리포 이름과 함께 변경 가능).
+> **Six Hundred(육공공)** — 만점 600에서 따온 이름.
 > [NINE90](https://github.com/jsonpassion/NINE90)(TOEIC 트랙)과 동일한 콘텐츠 파이프라인을 쓰는
 > TEPS 트랙 리포지토리 — 앱은 manifest URL 하나로 이 리포의 콘텐츠를 통째로 동기화합니다.
 
@@ -49,20 +49,20 @@ TOEIC 트랙과 같은 **권 번호("N권") 책장**을 씁니다. `unit_title` 
 - 유닛당 **정확히 100단어**, 10단어 = 1챕터 (앱의 회독 단위)
 - **밴드 내 중복 = 오류**, 밴드 간 중복 = 경고(허용 — 레벨이 올라가면 재등장 가능)
 - 필드 안에 파이프(`|`) 금지 (구분자 전용)
-- 카드 ID = `{파일 id}-{줄 번호}` — **출시 후 기존 줄의 순서 변경·삭제 금지**
+- 카드 ID = `{파일 id}-{표제어 slug}` — 줄 순서와 무관하지만, **출시 후 표제어 철자 변경·삭제는 금지**
   (사용자 학습 진도가 카드 ID에 매여 있음). 추가는 새 유닛 파일로.
-- `manifest.json`의 `profile.free_chapters`(기본 3) = 권마다 무료로 열리는 챕터 수
+- `manifest.json`의 `profile.free_chapters`(기본 10 = 1권) = 밴드마다 무료로 열리는 챕터 수
   (앱이 원격 설정으로 읽음)
 
 ## 워크플로
 
+단어 생성은 [OVERNIGHT.md](OVERNIGHT.md) 한 곳에 정리돼 있다 (후보 목록 → 전역 중복 제거·배정 → 권별 병렬 작성 → 검증).
+
 ```bash
-# 1) 커리큘럼 설계 → PROMPT.md의 프롬프트 ① 사용, 표를 검토·확정
-# 2) 권 생성     → PROMPT.md의 프롬프트 ② 사용 (기존 단어 목록 주입 필수)
-# 3) 검증·배포
+python3 tools/plan.py status         # 진행 상황
 python3 tools/validate_content.py    # 0 errors 필수
 python3 tools/build_manifest.py
-git add content/ manifest.json && git commit -m "Add <band> unit-NNN" && git push
+git add content plan manifest.json && git commit && git push
 ```
 
 앱은 raw.githubusercontent.com의 manifest.json 버전 변경을 감지해 바뀐 파일만 내려받습니다
