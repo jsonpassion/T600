@@ -1,7 +1,7 @@
 /* ============================================================
    T600 promo site — Neobrutalism, tokens mirrored from the app
    (NBTheme.swift: colors, 3px borders, hard offset shadows)
-   Brand accent is mint (--brand) with lime support (--brand-2);
+   Brand accent is lavender (--brand) with lime support (--brand-2);
    the raw palette variables stay identical across sister apps.
    ============================================================ */
 
@@ -22,10 +22,10 @@
   --orange:   #FF922B;
   --danger:   #E03131;
 
-  /* Brand accent (this track: blue + lavender) */
-  --brand:   #63E6BE;
+  /* Brand accent (this track: lavender + lime, orange spark) */
+  --brand:   #B197FC;
   --brand-2: #A9E34B;
-  --brand-3: #4DABF7;
+  --brand-3: #FF922B;
 
   /* Structural */
   --ink:  #1A1A1A;
@@ -1123,9 +1123,9 @@ html.js .reveal.in      { opacity: 1; transform: none; }
 .cinema .cinema-art {
   position: absolute; inset: 0; z-index: 0;
   background:
-    radial-gradient(72% 92% at 16% 10%, rgba(77,171,247,0.85), rgba(77,171,247,0) 62%),
-    radial-gradient(66% 86% at 84% 90%, rgba(177,151,252,0.80), rgba(177,151,252,0) 60%),
-    radial-gradient(52% 68% at 62% 16%, rgba(99,230,190,0.42), rgba(99,230,190,0) 60%),
+    radial-gradient(72% 92% at 16% 10%, rgba(177,151,252,0.85), rgba(177,151,252,0) 62%),
+    radial-gradient(66% 86% at 84% 90%, rgba(169,227,75,0.62), rgba(169,227,75,0) 60%),
+    radial-gradient(52% 68% at 62% 16%, rgba(255,146,43,0.40), rgba(255,146,43,0) 60%),
     linear-gradient(125deg, #0E1524 0%, #17202F 48%, #0B1220 100%);
 }
 /* Vertical rules read as book spines lined up on a shelf. */
@@ -1138,9 +1138,9 @@ html.js .reveal.in      { opacity: 1; transform: none; }
 }
 .cinema .cinema-art.art-b {
   background:
-    radial-gradient(70% 90% at 82% 12%, rgba(99,230,190,0.55), rgba(99,230,190,0) 60%),
-    radial-gradient(78% 96% at 20% 88%, rgba(77,171,247,0.85), rgba(77,171,247,0) 62%),
-    radial-gradient(58% 74% at 52% 40%, rgba(177,151,252,0.55), rgba(177,151,252,0) 62%),
+    radial-gradient(70% 90% at 82% 12%, rgba(255,146,43,0.50), rgba(255,146,43,0) 60%),
+    radial-gradient(78% 96% at 20% 88%, rgba(177,151,252,0.85), rgba(177,151,252,0) 62%),
+    radial-gradient(58% 74% at 52% 40%, rgba(169,227,75,0.45), rgba(169,227,75,0) 62%),
     linear-gradient(200deg, #0B1220 0%, #141C2B 52%, #0E1524 100%);
 }
 /* Scrim: darker on the copy side so white text always reads */
@@ -1216,4 +1216,32 @@ html.js .reveal.in      { opacity: 1; transform: none; }
   .cinema .cinema-inner { padding: 44px 20px; }
   .cinema .spines { justify-content: center; }
   .cinema .spine { min-height: 88px; font-size: 11px; }
+}
+
+/* ---------- Footage slot (until the track's own Higgsfield clips land) ---------- */
+.reel-slot {
+  display: grid; place-items: center;
+  background:
+    radial-gradient(80% 60% at 30% 20%, rgba(169,227,75,0.75), rgba(169,227,75,0) 70%),
+    radial-gradient(90% 70% at 80% 90%, rgba(255,146,43,0.55), rgba(255,146,43,0) 70%),
+    var(--brand);
+}
+.slot-card {
+  width: 70%; aspect-ratio: 1.6; display: grid; place-items: center; position: relative;
+  background: #fff; border: var(--bw) solid var(--ink); border-radius: 18px; box-shadow: var(--shadow-md);
+}
+.slot-card b { font: 900 52px/1 ui-rounded, "SF Pro Rounded", system-ui, sans-serif; color: var(--ink); margin-top: 22px; }
+.slot-eyes { position: absolute; top: 12%; display: flex; gap: 10px; }
+.slot-eyes i {
+  width: 18px; height: 23px; border: 3px solid var(--ink); border-radius: 50%; background: #fff; position: relative;
+}
+.slot-eyes i::after {
+  content: ""; position: absolute; width: 8px; height: 10px; border-radius: 50%; background: var(--ink); right: 2px; bottom: 3px;
+}
+
+/* "for TEPS" — the icon's caption pill, beside the tile strip */
+.kk-for {
+  font-weight: 900; font-size: 13px; color: var(--ink); background: #fff;
+  border: 2.5px solid var(--ink); border-radius: 999px; padding: 3px 10px;
+  box-shadow: 3px 3px 0 var(--ink); white-space: nowrap;
 }

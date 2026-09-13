@@ -1,16 +1,10 @@
 #!/usr/bin/env python3
-"""Generate manifest.json from the content/ tree.
+"""Generate manifest.json from content/voca/<band>/unit-NNN.md.
 
-Walks content/<type>/<band>/unit-NNN.md, reads each file's frontmatter,
-computes real SHA-256 checksums (the app uses them as change-detection
-tokens: a changed checksum triggers re-download), and writes manifest.json.
+SHA-256 per file (the app re-downloads on change) and a content-hash version,
+so the manifest changes exactly when a word file does.
 
-The manifest `version` is derived from the combined content hash, so it
-changes exactly when any content file changes.
-
-Usage:
-    python3 tools/build_manifest.py            # writes manifest.json
-    python3 tools/build_manifest.py --check    # verify manifest is current
+Usage: python3 tools/build_manifest.py [--check]
 """
 
 import hashlib
@@ -18,108 +12,57 @@ import json
 import re
 import sys
 from datetime import datetime, timezone
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-CONTENT_DIR = ROOT / "content"
+from kit import BANDS, CONFIG, ROOT, parse_frontmatter, unit_files
+
 MANIFEST_PATH = ROOT / "manifest.json"
 
-TRACK = "teps-600"
-SCHEMA_VERSION = 1
 
-# Must match the app's hardcoded ScoreBandInfo.allBands.
-SCORE_BANDS = [
-    {"id": "score-000-326", "label": "~326",    "min_score": 0,   "max_score": 326, "order": 1},
-    {"id": "score-327-452", "label": "327-452", "min_score": 327, "max_score": 452, "order": 2},
-    {"id": "score-453-525", "label": "453-525", "min_score": 453, "max_score": 525, "order": 3},
-    {"id": "score-526-600", "label": "526-600", "min_score": 526, "max_score": 600, "order": 4},
-]
-
-PROFILE = {
-    "target_score": 600,
-    "daily_study_minutes": 5,
-    "voca_review_rule": "hoedok-rounds",
-    # Chapters per band that stay free before the full-access purchase.
-    # Remote-configurable: the app reads this from the manifest profile.
-    "free_chapters": 10,   # one whole topic book free (앱 책장 1권)
-}
-
-
-def parse_frontmatter(text: str) -> dict:
-    if not text.startswith("---\n"):
-        raise ValueError("missing frontmatter")
-    end = text.index("\n---\n")
-    fields = {}
-    for line in text[4:end].splitlines():
-        if ":" not in line:
-            continue
-        key, _, value = line.partition(":")
-        fields[key.strip()] = value.strip()
-    return fields
-
-
-def build_entries() -> list:
-    entries = []
-    for path in sorted(CONTENT_DIR.rglob("unit-*.md")):
-        rel = path.relative_to(ROOT).as_posix()
+def entries():
+    out = []
+    for path in unit_files():
         raw = path.read_bytes()
-        fm = parse_frontmatter(raw.decode("utf-8"))
-
-        match = re.search(r"unit-(\d+)\.md$", path.name)
-        sequence = int(match.group(1)) if match else 0
-
-        entries.append({
-            "id": fm["id"],
-            "type": fm["type"],
-            "level": int(fm["level"]),
-            "path": rel,
+        fm, _ = parse_frontmatter(raw.decode("utf-8"))
+        m = re.search(r"unit-(\d+)\.md$", path.name)
+        out.append({
+            "id": fm["id"], "type": fm["type"], "level": int(fm["level"]),
+            "path": path.relative_to(ROOT).as_posix(),
             "checksum_sha256": hashlib.sha256(raw).hexdigest(),
             "updated_at": fm["updated_at"],
             "score_band_id": fm.get("score_band_id"),
             "score_min": int(fm["score_min"]) if fm.get("score_min") else None,
             "score_max": int(fm["score_max"]) if fm.get("score_max") else None,
-            "unit_title": fm.get("unit_title"),
-            "unit_title_ko": fm.get("unit_title_ko"),
+            "unit_title": fm.get("unit_title"), "unit_title_ko": fm.get("unit_title_ko"),
             "unit_symbol": fm.get("unit_symbol"),
-            "sequence": sequence,
+            "sequence": int(m.group(1)) if m else 0,
         })
-    return entries
+    return out
 
 
-def content_version(entries: list) -> str:
-    combined = hashlib.sha256(
-        "".join(e["checksum_sha256"] for e in entries).encode()
-    ).hexdigest()
-    return f"c-{combined[:12]}"
-
-
-def build_manifest() -> dict:
-    entries = build_entries()
+def build():
+    items = entries()
+    version = "c-" + hashlib.sha256("".join(e["checksum_sha256"] for e in items).encode()).hexdigest()[:12]
+    bands = [{"id": b["id"], "label": b["label"], "min_score": b["min_score"], "max_score": b["max_score"],
+              "order": b["order"]} for b in BANDS]
     return {
-        "version": content_version(entries),
+        "version": version,
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "schema_version": SCHEMA_VERSION,
-        "track": TRACK,
-        "profile": PROFILE,
-        "score_band_policy": {"version": "3.0", "rule": "four-tier", "bands": SCORE_BANDS},
-        "entries": entries,
+        "schema_version": 1,
+        "track": CONFIG["track"],
+        "profile": {"target_score": CONFIG["target_score"], "daily_study_minutes": 5,
+                    "voca_review_rule": "hoedok-rounds", "free_chapters": CONFIG.get("free_chapters", 10)},
+        "score_band_policy": {"version": "3.0", "rule": CONFIG.get("band_rule", "four-tier"), "bands": bands},
+        "entries": items,
     }
 
 
 def main() -> int:
-    manifest = build_manifest()
-
+    manifest = build()
     if "--check" in sys.argv:
-        if not MANIFEST_PATH.exists():
-            print("manifest.json is missing — run tools/build_manifest.py")
-            return 1
-        current = json.loads(MANIFEST_PATH.read_text())
-        if current.get("version") != manifest["version"]:
-            print("manifest.json is stale — run tools/build_manifest.py")
-            return 1
-        print("manifest.json is up to date")
-        return 0
-
+        current = json.loads(MANIFEST_PATH.read_text()) if MANIFEST_PATH.exists() else {}
+        ok = current.get("version") == manifest["version"]
+        print("manifest.json is up to date" if ok else "manifest.json is stale — run tools/build_manifest.py")
+        return 0 if ok else 1
     MANIFEST_PATH.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
     print(f"Wrote manifest.json — version {manifest['version']}, {len(manifest['entries'])} entries")
     return 0

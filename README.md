@@ -1,20 +1,23 @@
-# Six00 Content — TEPS 어휘 콘텐츠 리포
+# Six Hundred Content — TEPS 어휘 콘텐츠 리포
 
-> **Six00은 작업용 코드네임입니다** (만점 600에서 따옴; 앱 브랜드 확정 시 리포 이름과 함께 변경 가능).
+> **Six Hundred은 작업용 코드네임입니다** (만점 600에서 따옴; 앱 브랜드 확정 시 리포 이름과 함께 변경 가능).
 > [NINE90](https://github.com/jsonpassion/NINE90)(TOEIC 트랙)과 동일한 콘텐츠 파이프라인을 쓰는
 > TEPS 트랙 리포지토리 — 앱은 manifest URL 하나로 이 리포의 콘텐츠를 통째로 동기화합니다.
 
-**현재 상태: 규격 + 도구 + 샘플만 존재.** 실제 단어 콘텐츠는 아직 생성 전이며,
-생성 방법은 [PROMPT.md](PROMPT.md)의 복붙용 LLM 프롬프트를 따릅니다.
+**현재 상태: 규격·도구·생성 파이프라인만 존재.** 단어는 [OVERNIGHT.md](OVERNIGHT.md) 절차로 밤새 병렬 생성한다.
 
 ## 구조
 
 ```
-content/voca/{band}/unit-NNN.md   ← 1파일 = 1권 = 정확히 100단어 (10단어 = 1챕터)
-tools/build_manifest.py           ← manifest.json 생성 (sha256, version = c-{hash12})
-tools/validate_content.py         ← 형식·수량·중복 검증 (0 errors 필수)
-manifest.json                     ← 앱이 읽는 콘텐츠 인덱스 (도구로만 생성, 손편집 금지)
-PROMPT.md                         ← LLM으로 커리큘럼·유닛을 생성하는 복붙 프롬프트
+content.config.json               ← 트랙 규격: 밴드·권 수·언어·표기 (도구가 모두 이것을 읽는다)
+plan/curriculum.json              ← 밴드별 10권 테마
+prompts/wordlist.md               ← 1단계: 밴드별 후보 표제어 프롬프트
+prompts/unit.md                   ← 2단계: 배정된 100단어로 권 파일 쓰기 프롬프트
+tools/plan.py                     ← 후보 병합·전역 중복 제거·100개 배정·brief 생성·todo
+tools/validate_content.py         ← 형식·표기·중복·배정 일치 검증 (0 errors 필수)
+tools/build_manifest.py           ← manifest.json 생성
+content/voca/{band}/unit-NNN.md   ← 1파일 = 1권 = 100단어 (10단어 = 1챕터)
+OVERNIGHT.md                      ← 밤샘 병렬 생성 런북 + 붙여넣기용 오케스트레이션 프롬프트
 ```
 
 ## 점수 밴드 (New TEPS 0–600, 공인 등급 기준)

@@ -1,0 +1,28 @@
+{
+  "track": "teps-600",
+  "source": "t600",
+  "exam": { "mark": "TEPS", "name_ko": "텝스" },
+  "target_score": 600,
+  "free_chapters": 10,
+  "band_rule": "four-tier",
+  "words_per_unit": 100,
+  "tags": ["teps", "vocabulary"],
+  "language": {
+    "word": "en", "meaning": "ko", "tip": "ko",
+    "reading": "ipa", "tip_max_chars": 45, "dedupe_with_reading": false
+  },
+  "bands": [
+    { "id": "score-000-326", "label": "~326", "min_score": 0, "max_score": 326, "order": 1,
+      "name": "입문", "difficulty": "beginner", "units": 10,
+      "brief": "3+급 이하. 일상·캠퍼스 대화의 구어 표현과 고등학교 수준 기본 어휘. 텝스 청해 Part 1-2와 어휘 Part 1 대화 완성에 나오는 말." },
+    { "id": "score-327-452", "label": "327-452", "min_score": 327, "max_score": 452, "order": 2,
+      "name": "중급", "difficulty": "intermediate", "units": 10,
+      "brief": "2급·2+급(국가공인 진입). 비즈니스·사회 전반의 빈출 어휘, 기본 콜로케이션과 구동사. 서울대 대학원 최소 기준 327점을 넘기는 구간." },
+    { "id": "score-453-525", "label": "453-525", "min_score": 453, "max_score": 525, "order": 3,
+      "name": "중상급", "difficulty": "upper-intermediate", "units": 10,
+      "brief": "1급. 시사·학술 지문의 문어체 어휘, 격식 표현, 관용어와 다의 구동사. 어휘 Part 2 문장 완성 20문항의 주력 구간." },
+    { "id": "score-526-600", "label": "526-600", "min_score": 526, "max_score": 600, "order": 4,
+      "name": "고급", "difficulty": "advanced", "units": 10,
+      "brief": "1+급. 신문 사설·학술 논문 수준의 고난도 문어 어휘, 미묘한 뉘앙스 형용사·동사, 고난도 콜로케이션과 관용어." }
+  ]
+}
