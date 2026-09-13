@@ -1,0 +1,47 @@
+{
+  "version": "c-e3b0c44298fc",
+  "generated_at": "2026-09-13T13:51:49Z",
+  "schema_version": 1,
+  "track": "teps-600",
+  "profile": {
+    "target_score": 600,
+    "daily_study_minutes": 5,
+    "voca_review_rule": "hoedok-rounds",
+    "free_chapters": 10
+  },
+  "score_band_policy": {
+    "version": "3.0",
+    "rule": "four-tier",
+    "bands": [
+      {
+        "id": "score-000-326",
+        "label": "~326",
+        "min_score": 0,
+        "max_score": 326,
+        "order": 1
+      },
+      {
+        "id": "score-327-452",
+        "label": "327-452",
+        "min_score": 327,
+        "max_score": 452,
+        "order": 2
+      },
+      {
+        "id": "score-453-525",
+        "label": "453-525",
+        "min_score": 453,
+        "max_score": 525,
+        "order": 3
+      },
+      {
+        "id": "score-526-600",
+        "label": "526-600",
+        "min_score": 526,
+        "max_score": 600,
+        "order": 4
+      }
+    ]
+  },
+  "entries": []
+}
