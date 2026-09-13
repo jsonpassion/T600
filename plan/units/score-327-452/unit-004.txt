@@ -1,0 +1,102 @@
+# theme: 기술과 인터넷 — 기기·보안·서비스
+# unit: voca-327-452-u004
+device
+gadget
+laptop
+hardware
+software
+download
+install
+uninstall
+upgrade
+outdated
+obsolete
+compatible
+user-friendly
+interface
+feature
+malfunction
+glitch
+bug
+crash
+reboot
+shut down
+boot up
+log in
+log out
+two-factor authentication
+verify
+encryption
+hacker
+hack into
+data breach
+malware
+computer virus
+spam
+phishing
+firewall
+antivirus software
+back up
+cloud storage
+storage capacity
+network
+wireless
+bandwidth
+broadband
+streaming
+unsubscribe
+social media
+browser
+search engine
+click on
+scroll down
+navigate
+bookmark
+cookie
+privacy setting
+personal information
+identity theft
+surveillance
+tech-savvy
+digital
+digitize
+artificial intelligence
+algorithm
+automate
+virtual reality
+innovation
+cutting-edge
+state-of-the-art
+breakthrough
+prototype
+release
+battery life
+charger
+unplug
+switch off
+touchscreen
+troubleshoot
+technical support
+portable
+wearable
+sensor
+delete
+restore
+access
+gain access to
+unauthorized
+vulnerability
+secure
+security patch
+go viral
+e-commerce
+cashless
+mobile payment
+contactless
+screen time
+cyberattack
+cybersecurity
+misinformation
+specification
+processor
+operating system

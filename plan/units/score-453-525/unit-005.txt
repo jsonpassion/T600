@@ -1,0 +1,102 @@
+# theme: 문화와 예술 — 비평·전시·공연
+# unit: voca-453-525-u005
+critique
+acclaim
+rave review
+scathing
+mediocre
+masterpiece
+genre
+aesthetic
+realism
+avant-garde
+contemporary
+exhibit
+curator
+retrospective
+installation
+sculpture
+still life
+canvas
+brushstroke
+palette
+depict
+portray
+evoke
+convey
+symbolize
+allegory
+metaphor
+motif
+narrative
+protagonist
+antagonist
+plot twist
+climax
+premiere
+debut
+rehearsal
+audition
+ensemble
+composer
+repertoire
+virtuoso
+recital
+concerto
+symphony
+choreography
+playwright
+screenplay
+blockbuster
+standing ovation
+encore
+intermission
+stage fright
+steal the show
+bring the house down
+spectator
+patron
+commission
+prolific
+renowned
+versatile
+originality
+authenticity
+replica
+restoration
+heritage
+folklore
+indigenous
+multicultural
+mainstream
+subculture
+highbrow
+lowbrow
+cult following
+censorship
+controversial
+subversive
+satire
+parody
+irony
+nuance
+subtle
+vivid
+expressive
+interpret
+reminiscent of
+draw inspiration from
+muse
+improvise
+verse
+stanza
+prose
+anthology
+memoir
+literary
+nonfiction
+bestseller
+manuscript
+edition
+artisan
+craftsmanship

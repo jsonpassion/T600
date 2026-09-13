@@ -1,0 +1,102 @@
+# theme: 날씨와 자연 — 기후·계절·재해 기초
+# unit: voca-000-326-u009
+weather
+forecast
+sunny
+cloudy
+rainy
+windy
+foggy
+snowy
+humid
+dry
+chilly
+freezing
+cold wave
+heat wave
+below zero
+thermometer
+climate
+season
+spring
+summer
+fall
+winter
+rainy season
+shower
+drizzle
+pouring rain
+downpour
+storm
+thunder
+lightning
+thunderstorm
+typhoon
+hurricane
+tornado
+flood
+drought
+earthquake
+volcano
+tsunami
+landslide
+wildfire
+disaster
+damage
+destroy
+evacuate
+warning
+shelter
+rescue
+survive
+victim
+blow
+breeze
+snowstorm
+blizzard
+hail
+frost
+ice
+melt
+freeze
+umbrella
+raincoat
+get caught in the rain
+soaked
+sweat
+sunscreen
+clear up
+cool down
+rain cats and dogs
+nature
+environment
+pollution
+fine dust
+smog
+global warming
+climate change
+greenhouse gas
+sky
+cloud
+rainbow
+sunrise
+sunset
+moon
+ocean
+river
+lake
+mountain
+forest
+wind
+fresh air
+earth
+planet
+wildlife
+plant
+protect
+mild
+extreme
+unpredictable
+predict
+be expected to
+chance of rain

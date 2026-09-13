@@ -1,0 +1,102 @@
+# theme: 심리와 행동 — 인지·동기·편향
+# unit: voca-453-525-u007
+cognition
+perceive
+conscious
+subconscious
+instinct
+impulse
+intuition
+motivate
+intrinsic
+extrinsic
+conformity
+peer pressure
+self-esteem
+ego
+temperament
+disposition
+trait
+introvert
+extrovert
+inhibit
+suppress
+repress
+anxiety
+phobia
+obsession
+compulsive
+addiction
+resilience
+trauma
+reinforce
+reward
+conditioning
+habituate
+habit
+procrastinate
+gratification
+willpower
+self-control
+rationalize
+denial
+projection
+cognitive dissonance
+confirmation bias
+heuristic
+misconception
+illusion
+delusion
+hallucination
+memory lapse
+recall
+retain
+forgetful
+attention span
+distract
+altruism
+selfish
+aggression
+frustration
+shame
+humiliate
+embarrass
+grudge
+mood swing
+elated
+depressed
+melancholy
+apathy
+indifferent
+complacent
+overconfident
+insecure
+assertive
+timid
+inclination
+tendency
+susceptible
+deviate
+abnormal
+eccentric
+mimic
+imitate
+manipulate
+gullible
+naive
+wary
+paranoid
+irrational
+subjective
+introspection
+self-awareness
+peer
+social norm
+herd mentality
+bystander effect
+mindset
+act out
+snap out of
+bottle up
+on edge
+at ease

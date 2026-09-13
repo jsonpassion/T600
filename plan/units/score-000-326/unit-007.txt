@@ -1,0 +1,102 @@
+# theme: 집과 생활 — 이사·수리·이웃
+# unit: voca-000-326-u007
+move
+move in
+move out
+moving company
+apartment
+landlord
+tenant
+rent
+security deposit
+lease
+utility bill
+electricity
+neighbor
+next door
+upstairs
+downstairs
+noise
+noisy
+quiet
+repair
+fix
+break down
+broken
+leak
+faucet
+pipe
+plumber
+electrician
+handyman
+toolbox
+hammer
+nail
+screw
+ladder
+light bulb
+out of order
+clogged
+drain
+sink
+toilet
+bathroom
+bedroom
+living room
+kitchen
+furniture
+couch
+closet
+drawer
+shelf
+carpet
+floor
+ceiling
+wall
+window
+curtain
+roof
+garage
+yard
+garden
+lawn
+mow the lawn
+water the plants
+do the dishes
+do the laundry
+vacuum
+sweep
+mop
+dust
+tidy up
+clean up
+take out the trash
+garbage
+messy
+throw away
+get rid of
+set up
+put together
+hang up
+plug in
+turn on
+turn off
+heater
+air conditioner
+washing machine
+lock
+key
+doorbell
+knock
+neighborhood
+settle in
+feel at home
+make yourself at home
+housewarming party
+spacious
+cozy
+crowded
+comfortable
+housemate
+pet
+feed

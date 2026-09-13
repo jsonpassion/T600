@@ -1,0 +1,102 @@
+# theme: 건강과 병원 — 증상·진료·약
+# unit: voca-000-326-u005
+sick
+ill
+illness
+disease
+health
+healthy
+hurt
+pain
+painful
+ache
+headache
+stomachache
+toothache
+backache
+fever
+catch a cold
+flu
+cough
+sneeze
+runny nose
+sore throat
+stuffy nose
+symptom
+dizzy
+tired
+exhausted
+feel sick
+throw up
+vomit
+diarrhea
+allergic to
+rash
+itchy
+swollen
+bleed
+blood
+wound
+injury
+injure
+bruise
+scratch
+burn
+sprain
+broken bone
+cast
+bandage
+hospital
+clinic
+doctor
+nurse
+patient
+see a doctor
+checkup
+examine
+test results
+x-ray
+blood pressure
+temperature
+take one's temperature
+diagnose
+treat
+cure
+heal
+recover
+get better
+get well soon
+feel better
+come down with
+under the weather
+medicine
+pill
+tablet
+drug
+pharmacy
+prescription
+prescribe
+take medicine
+side effect
+dose
+painkiller
+vitamin
+emergency
+ambulance
+emergency room
+surgery
+operation
+insurance
+fill out
+form
+waiting room
+be in the hospital
+stay in bed
+get some rest
+sleep
+lack of sleep
+stress
+stressed out
+exercise
+diet
+lose weight

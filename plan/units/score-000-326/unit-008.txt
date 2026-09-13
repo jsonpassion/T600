@@ -1,0 +1,102 @@
+# theme: 음식과 외식 — 주문·맛·요리
+# unit: voca-000-326-u008
+hungry
+starving
+full
+stuffed
+thirsty
+order
+menu
+waiter
+server
+table for two
+book a table
+takeout
+to go
+for here
+order in
+eat out
+my treat
+split the bill
+pick up the tab
+check
+tip
+specialty
+dish
+appetizer
+main course
+dessert
+side dish
+portion
+refill
+taste
+tasty
+delicious
+bland
+salty
+sweet
+sour
+bitter
+spicy
+greasy
+crispy
+juicy
+tender
+chewy
+fresh
+stale
+rotten
+spoiled
+raw
+rare
+medium
+well-done
+overcooked
+burnt
+cook
+chef
+recipe
+ingredient
+boil
+fry
+bake
+grill
+roast
+steam
+stir
+chop
+slice
+peel
+mix
+pour
+add
+heat up
+warm up
+defrost
+microwave
+oven
+stove
+pan
+pot
+bowl
+plate
+fork
+knife
+spoon
+chopsticks
+napkin
+leftovers
+doggy bag
+snack
+meal
+breakfast
+lunch
+dinner
+grab a bite
+have a sweet tooth
+craving
+picky eater
+vegetarian
+be on a diet
+calorie
+nutritious

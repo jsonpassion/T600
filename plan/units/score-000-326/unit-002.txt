@@ -1,0 +1,102 @@
+# theme: 캠퍼스 생활 — 수강신청·과제·동아리
+# unit: voca-000-326-u002
+sign up for
+register
+enroll
+course
+lecture
+professor
+instructor
+teaching assistant
+major in
+minor
+credit
+semester
+freshman
+sophomore
+junior
+senior
+graduate
+degree
+transcript
+grade
+grade point average
+pass
+fail
+drop a class
+prerequisite
+required course
+elective
+syllabus
+attendance
+absent
+skip class
+be late for
+assignment
+homework
+due
+deadline
+hand in
+turn in
+submit
+extension
+essay
+report
+paper
+research
+presentation
+group project
+team up with
+figure out
+work on
+look up
+go over
+review
+brush up on
+cram
+study for
+midterm
+final exam
+quiz
+score
+pop quiz
+open-book
+cheat on
+take notes
+textbook
+handout
+library
+overdue
+dormitory
+roommate
+campus
+cafeteria
+student ID
+tuition
+scholarship
+apply for
+application
+club
+join
+member
+activity
+volunteer
+orientation
+advisor
+office hours
+be good at
+struggle with
+fall behind
+keep up with
+catch on
+get the hang of
+make progress
+improve
+effort
+focus on
+concentrate
+stay up late
+pull an all-nighter
+give up
+try one's best
+do well on

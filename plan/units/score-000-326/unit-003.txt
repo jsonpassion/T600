@@ -1,0 +1,102 @@
+# theme: 쇼핑과 소비 — 가격·교환·배송
+# unit: voca-000-326-u003
+go shopping
+purchase
+pay for
+payment
+cash
+credit card
+change
+price
+cost
+expensive
+cheap
+reasonable
+affordable
+discount
+on sale
+for sale
+sold out
+out of stock
+in stock
+bargain
+steal
+rip-off
+overpriced
+worth
+afford
+spend
+save
+budget
+receipt
+refund
+exchange
+return
+replace
+damaged
+defective
+fit
+size
+try on
+fitting room
+look good on
+go with
+match
+brand
+quality
+product
+item
+goods
+customer
+clerk
+cashier
+counter
+checkout
+line up
+wait in line
+browse
+just looking
+look for
+look around
+recommend
+compare
+choose
+pick out
+decide on
+make up one's mind
+place an order
+deliver
+delivery
+ship
+shipping
+arrive
+package
+track
+free shipping
+wrap
+gift
+coupon
+reward points
+tax
+include
+extra
+charge
+total
+come to
+installment
+in cash
+by card
+sign
+warranty
+guarantee
+store
+mall
+market
+online
+cart
+add to cart
+wallet
+brand-new
+secondhand
+complain
+complaint

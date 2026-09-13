@@ -1,0 +1,102 @@
+# theme: 학술 담론 — 이론·방법론·해석
+# unit: voca-526-600-u003
+postulate
+conjecture
+axiom
+paradigm
+paradigm shift
+framework
+construct
+confounding variable
+a priori
+inductive
+deductive
+longitudinal
+cross-sectional
+ethnography
+case study
+representative sample
+validity
+reliability
+outlier
+interpolate
+operationalize
+falsifiable
+propound
+expound
+elucidate
+explicate
+hermeneutics
+exegesis
+discourse
+semiotics
+taxonomy
+typology
+dichotomy
+juxtapose
+meta-analysis
+treatise
+monograph
+compendium
+corpus
+primary source
+annotation
+nomenclature
+rubric
+criterion
+benchmark
+proxy
+threshold
+caveat
+proviso
+equivocal
+provisional
+speculative
+inconclusive
+tenuous
+spurious
+reductive
+holistic
+seminal
+canonical
+heterodox
+revisionist
+deconstruct
+contextualize
+conceptualize
+underpinning
+tenet
+school of thought
+proponent
+detractor
+adherent
+corollary
+inference
+counterexample
+vis-à-vis
+bear out
+shed light on
+lend credence to
+stand up to scrutiny
+delve into
+hypothesize
+presupposition
+teleological
+positivism
+methodological
+extant
+erudite
+esoteric
+nuanced
+normative
+abstraction
+epistemic
+ontological
+phenomenology
+counterfactual
+null hypothesis
+causality
+anomalous
+aberration
+generalizable
+conflate

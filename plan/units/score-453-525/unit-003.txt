@@ -1,0 +1,102 @@
+# theme: 과학 기술 — 연구·실험·혁신
+# unit: voca-453-525-u003
+control group
+replicate
+validate
+falsify
+anomaly
+phenomenon
+specimen
+sample size
+methodology
+parameter
+calibrate
+quantify
+correlation
+causation
+statistically significant
+margin of error
+innovate
+commercialize
+automation
+robotics
+nanotechnology
+biotechnology
+genetic engineering
+genome
+clone
+synthesize
+synthetic
+compound
+molecule
+particle
+nuclear fission
+fusion
+radiation
+conductor
+circuit
+semiconductor
+orbit
+satellite
+spacecraft
+velocity
+momentum
+thermal
+combustion
+catalyst
+dissolve
+evaporate
+condense
+compress
+dilute
+apparatus
+augmented reality
+simulation
+extrapolate
+infer
+deduce
+theorem
+formula
+equation
+derive
+exponential
+trajectory
+precision
+rigorous
+systematic
+trial and error
+break new ground
+pioneer
+stumble upon
+disprove
+debunk
+groundbreaking
+revolutionize
+disruptive
+iteration
+embed
+transmit
+frequency
+wavelength
+spectrum
+quantum
+organism
+microorganism
+mutation
+peer-reviewed
+dependent variable
+controlled experiment
+meticulous
+proof of concept
+research and development
+feasibility
+push the envelope
+at the forefront of
+cast doubt on
+hit upon
+come up against
+magnify
+refraction
+inertia
+kinetic energy
+electromagnetic

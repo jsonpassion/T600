@@ -1,0 +1,102 @@
+# theme: 교통과 여행 — 예약·길찾기·지연
+# unit: voca-000-326-u004
+travel
+trip
+tour
+journey
+vacation
+book
+reservation
+check in
+check out
+passport
+visa
+ticket
+round-trip
+one-way
+fare
+seat
+aisle seat
+window seat
+boarding pass
+board
+gate
+flight
+airport
+departure
+arrival
+land
+take off
+delay
+miss the flight
+catch a bus
+get on
+get off
+transfer
+subway
+station
+stop
+platform
+timetable
+luggage
+baggage
+suitcase
+pack
+unpack
+carry-on
+lost and found
+directions
+ask for directions
+get lost
+map
+turn left
+go straight
+corner
+block
+cross
+crosswalk
+across from
+next to
+in front of
+far
+nearby
+distance
+how far
+take a taxi
+give someone a ride
+drop off
+traffic
+traffic jam
+stuck in traffic
+rush hour
+detour
+route
+shortcut
+parking lot
+gas station
+drive
+rent a car
+driver's license
+speed limit
+accident
+highway
+exit
+fasten
+seat belt
+hotel
+stay
+guest
+front desk
+sightseeing
+tourist
+guide
+souvenir
+abroad
+overseas
+foreign
+local
+destination
+itinerary
+leave for
+head for
+set off

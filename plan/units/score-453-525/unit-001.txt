@@ -1,0 +1,102 @@
+# theme: 시사 정치 — 선거·정책·외교
+# unit: voca-453-525-u001
+electorate
+constituency
+incumbent
+ballot
+referendum
+turnout
+candidacy
+nominee
+frontrunner
+swing voter
+exit poll
+approval rating
+recount
+concede
+inauguration
+legislature
+veto
+ratify
+amendment
+statute
+enact
+repeal
+filibuster
+bipartisan
+partisan
+coalition
+caucus
+faction
+lobby
+sanction
+embargo
+treaty
+accord
+envoy
+ambassador
+consulate
+summit
+bilateral
+multilateral
+sovereignty
+territorial dispute
+annex
+secede
+autonomy
+regime
+authoritarian
+dissident
+defect
+deport
+extradite
+sever ties
+normalize relations
+cease-fire
+truce
+mediate
+broker a deal
+stalemate
+impasse
+ultimatum
+retaliate
+escalate
+provocation
+hawkish
+dovish
+rhetoric
+propaganda
+mandate
+pledge
+campaign trail
+run for office
+step down
+oust
+impeach
+coup
+insurgency
+unrest
+populist
+polarization
+ideology
+parliamentary
+jurisdiction
+executive order
+policymaker
+overhaul
+alliance
+adversary
+standoff
+geopolitical
+disarmament
+arms race
+humanitarian aid
+espionage
+whistleblower
+bribery
+accountability
+transparency
+legitimacy
+toe the party line
+lame duck
+throw one's hat in the ring

@@ -1,0 +1,102 @@
+# theme: 의학과 보건 — 질병·치료·임상
+# unit: voca-453-525-u004
+prognosis
+chronic
+acute
+contagious
+infectious
+epidemic
+pandemic
+outbreak
+pathogen
+bacterial
+immune system
+immunity
+herd immunity
+vaccinate
+antibody
+antibiotic
+drug-resistant
+dosage
+over-the-counter
+adverse reaction
+inflammation
+nausea
+dizziness
+fatigue
+insomnia
+obesity
+diabetes
+hypertension
+cardiovascular
+stroke
+tumor
+malignant
+benign
+chemotherapy
+surgical
+anesthesia
+transplant
+donor
+recuperate
+relapse
+remission
+terminal illness
+palliative care
+hospice
+clinical trial
+placebo
+efficacy
+double-blind
+cohort
+informed consent
+pharmaceutical
+generic drug
+medication
+remedy
+alleviate
+relieve
+soothe
+aggravate
+exacerbate
+deteriorate
+afflict
+suffer from
+pass away
+fight off
+pull through
+on the mend
+wear off
+airborne
+quarantine
+sanitation
+hygiene
+sterile
+disinfect
+epidemiology
+mortality rate
+public health
+malnutrition
+deficiency
+nutrient
+metabolism
+hormone
+genetic predisposition
+hereditary
+congenital
+disorder
+syndrome
+dementia
+therapeutic
+physician
+pediatrician
+surgeon
+practitioner
+referral
+screening
+vital signs
+respiratory
+fracture
+hemorrhage
+coma
+paralysis
