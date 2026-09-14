@@ -18,7 +18,144 @@
       ],
       "default": true,
       "officialURL": "https://www.teps.or.kr",
-      "sessions": []
+      "sessions": [
+        {
+          "id": "2026-410",
+          "title": {
+            "ko": "제410회",
+            "en": "No. 410",
+            "ja": "第410回",
+            "zh": "第410次"
+          },
+          "examDate": "2026-09-19",
+          "registration": [
+            {
+              "label": {
+                "ko": "정기 접수",
+                "en": "Regular registration",
+                "ja": "通常受付",
+                "zh": "常规报名"
+              },
+              "start": "2026-08-03",
+              "end": "2026-08-30"
+            },
+            {
+              "label": {
+                "ko": "추가 접수",
+                "en": "Late registration",
+                "ja": "追加受付",
+                "zh": "追加报名"
+              },
+              "start": "2026-09-02",
+              "end": "2026-09-15"
+            }
+          ],
+          "resultDate": "2026-09-30",
+          "url": "https://www.teps.or.kr/receiption/examschedule"
+        },
+        {
+          "id": "2026-411",
+          "title": {
+            "ko": "제411회",
+            "en": "No. 411",
+            "ja": "第411回",
+            "zh": "第411次"
+          },
+          "examDate": "2026-10-24",
+          "registration": [
+            {
+              "label": {
+                "ko": "정기 접수",
+                "en": "Regular registration",
+                "ja": "通常受付",
+                "zh": "常规报名"
+              },
+              "start": "2026-09-07",
+              "end": "2026-10-04"
+            },
+            {
+              "label": {
+                "ko": "추가 접수",
+                "en": "Late registration",
+                "ja": "追加受付",
+                "zh": "追加报名"
+              },
+              "start": "2026-10-07",
+              "end": "2026-10-20"
+            }
+          ],
+          "resultDate": "2026-11-02",
+          "url": "https://www.teps.or.kr/receiption/examschedule"
+        },
+        {
+          "id": "2026-412",
+          "title": {
+            "ko": "제412회",
+            "en": "No. 412",
+            "ja": "第412回",
+            "zh": "第412次"
+          },
+          "examDate": "2026-11-21",
+          "registration": [
+            {
+              "label": {
+                "ko": "정기 접수",
+                "en": "Regular registration",
+                "ja": "通常受付",
+                "zh": "常规报名"
+              },
+              "start": "2026-10-05",
+              "end": "2026-11-01"
+            },
+            {
+              "label": {
+                "ko": "추가 접수",
+                "en": "Late registration",
+                "ja": "追加受付",
+                "zh": "追加报名"
+              },
+              "start": "2026-11-04",
+              "end": "2026-11-17"
+            }
+          ],
+          "resultDate": "2026-11-30",
+          "url": "https://www.teps.or.kr/receiption/examschedule"
+        },
+        {
+          "id": "2026-413",
+          "title": {
+            "ko": "제413회",
+            "en": "No. 413",
+            "ja": "第413回",
+            "zh": "第413次"
+          },
+          "examDate": "2026-12-05",
+          "registration": [
+            {
+              "label": {
+                "ko": "정기 접수",
+                "en": "Regular registration",
+                "ja": "通常受付",
+                "zh": "常规报名"
+              },
+              "start": "2026-10-19",
+              "end": "2026-11-15"
+            },
+            {
+              "label": {
+                "ko": "추가 접수",
+                "en": "Late registration",
+                "ja": "追加受付",
+                "zh": "追加报名"
+              },
+              "start": "2026-11-18",
+              "end": "2026-12-01"
+            }
+          ],
+          "resultDate": "2026-12-14",
+          "url": "https://www.teps.or.kr/receiption/examschedule"
+        }
+      ]
     }
   ]
 }
