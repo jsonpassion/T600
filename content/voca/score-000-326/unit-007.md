@@ -89,7 +89,7 @@ score_max: 326
 - messy | 지저분한, 어질러진 | /ˈmesi/ | mess(난장판)+y — 반의어 neat, tidy | Sorry my room is so messy; I haven't unpacked yet. | 방이 너무 지저분해서 미안, 아직 짐을 못 풀었어.
 - throw away | 버리다 | /θroʊ əˈweɪ/ | 목적어 대명사는 가운데: throw it away | Don't throw away those boxes; we can use them when we move. | 그 상자들 버리지 마, 이사할 때 쓸 수 있어.
 - get rid of | 없애다, 처분하다 | /ɡet rɪd əv/ | of까지 한 덩어리 — 청해 대화 완성 빈출 | We should get rid of this old sofa before the new one arrives. | 새 소파가 오기 전에 이 낡은 소파를 처분해야 해요.
-- set up | 설치하다, 마련하다 | /set ʌp/ | set up the Wi-Fi·TV — 기기 설치 짝 | The technician is coming tomorrow to set up our internet connection. | 내일 기사님이 와서 인터넷 연결을 설치해 주기로 했어요.
+- set up | 설치하다, 마련하다 | /set ʌp/ | set up the Wi-Fi=기기 설치 — 회의 잡기 뜻과 구별 | The technician is coming tomorrow to set up our internet connection. | 내일 기사님이 와서 인터넷 연결을 설치해 주기로 했어요.
 - put together | 조립하다 | /pʊt təˈɡeðər/ | assemble의 구어 — 조립식 가구에 단골 | It took us four hours to put together the bookshelf we bought online. | 온라인으로 산 책장을 조립하는 데 네 시간이 걸렸어요.
 - hang up | 걸다, 전화를 끊다 | /hæŋ ʌp/ | 옷을 걸다·전화를 끊다 두 뜻 모두 빈출 | Please hang up your coat in the closet by the front door. | 코트는 현관 옆 옷장에 걸어 주세요.
 - plug in | 플러그를 꽂다 | /plʌɡ ɪn/ | 반대는 unplug — 전원 뽑기 | Did you plug in the refrigerator? It doesn't seem to be working. | 냉장고 플러그 꽂았어? 작동을 안 하는 것 같은데.

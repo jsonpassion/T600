@@ -51,7 +51,7 @@ score_max: 452
 - grading curve | 상대 평가 기준 | /ˈɡreɪdɪŋ kɜːrv/ | grade on a curve = 상대평가하다 | Thanks to the grading curve, a score of 70 still earned a B. | 상대 평가 덕분에 70점으로도 B를 받았다.
 - pass with flying colors | 우수한 성적으로 통과하다 | /pæs wɪð ˈflaɪɪŋ ˈkʌlərz/ | 대화 완성 빈출 — 시험 결과 칭찬 표현 | Don't worry about the driving test; I'm sure you'll pass with flying colors. | 운전면허 시험 걱정 마. 분명 거뜬히 붙을 거야.
 - cram for | 벼락치기로 공부하다 | /kræm fɔːr/ | cram(쑤셔 넣다) + for the exam 짝 | I stayed up all night cramming for my chemistry final. | 화학 기말고사 벼락치기하느라 밤을 꼬박 새웠어.
-- catch up on | 밀린 것을 따라잡다 | /kætʃ ʌp ɑːn/ | catch up with 사람 / catch up on 일·공부 | I need to catch up on the readings I missed while I was sick. | 아파서 못 한 읽기 과제를 따라잡아야 해.
+- bone up on | ~을 집중적으로 공부하다, 복습하다 | /boʊn ʌp ɑːn/ | bone(뼈) 아닌 '열심히 파고들다' — cram보다 계획적인 준비 | Before the grad school interview, she boned up on the latest research in her field. | 대학원 면접을 앞두고 그녀는 자기 분야의 최신 연구를 집중적으로 공부했다.
 - read up on | ~에 대해 자료를 찾아 읽다 | /riːd ʌp ɑːn/ | 면접·여행 전 미리 조사하는 맥락 빈출 | You should read up on the company before your interview tomorrow. | 내일 면접 전에 그 회사에 대해 좀 찾아 읽어 둬.
 - pore over | 자세히 들여다보다 | /pɔːr ˈoʊvər/ | pour(붓다)와 동음 — pore over 문서 정독 | She pored over old court records to find evidence for her thesis. | 그녀는 논문 근거를 찾으려고 옛 법원 기록을 샅샅이 살폈다.
 - mandatory | 의무적인, 필수의 | /ˈmændətɔːri/ | 동의어 compulsory, 반의어 optional(선택) | Attendance at the safety orientation is mandatory for all new lab assistants. | 모든 신규 실험 조교는 안전 교육에 반드시 참석해야 한다.

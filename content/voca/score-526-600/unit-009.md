@@ -47,7 +47,7 @@ score_max: 600
 - renege on a promise | 약속을 어기다 | /rɪˈneɡ ɑːn ə ˈprɑːmɪs/ | renege 'on' 필수 — re(다시)+negare(부정하다) | The landlord reneged on his promise to repair the heating before winter. | 집주인은 겨울 전에 난방을 고쳐 주겠다던 약속을 어겼다.
 - shoulder the responsibility | 책임을 떠맡다 | /ˈʃoʊldər ðə rɪˌspɑːnsəˈbɪləti/ | shoulder=어깨에 짊어지다(동사) — shoulder the cost도 | Working parents often shoulder the responsibility of caring for elderly relatives as well. | 맞벌이 부모는 연로한 가족을 돌보는 책임까지 떠맡는 경우가 많다.
 - shirk responsibility | 책임을 회피하다 | /ʃɜːrk rɪˌspɑːnsəˈbɪləti/ | shirk=회피 vs shoulder=짊어짐 — 반대 짝 | Leaders who shirk responsibility for their mistakes quickly lose the trust of their staff. | 자기 실수에 대한 책임을 회피하는 리더는 금세 직원들의 신뢰를 잃는다.
-- lend credence | 신빙성을 더하다 | /lend ˈkriːdəns/ | lend credence 'to' — cred(믿다) 어근 | The leaked emails lend credence to claims that executives knew about the defect. | 유출된 이메일은 임원들이 결함을 알고 있었다는 주장에 신빙성을 더한다.
+- dispel rumors | 소문을 불식시키다, 루머를 잠재우다 | /dɪˈspel ˈruːmərz/ | dis(흩어)+pel(몰다) → 소문을 흩어 없애다 | The CEO held a press conference to dispel rumors of an impending merger. | 최고경영자는 임박한 합병설을 불식시키기 위해 기자회견을 열었다.
 - command respect | 존경을 받다, 존경을 불러일으키다 | /kəˈmænd rɪˈspekt/ | command=명령 아닌 '자연히 얻어내다' | Her decades of fieldwork command respect even among scholars who disagree with her. | 수십 년간의 현장 연구 덕분에 그녀는 견해가 다른 학자들에게도 존경을 받는다.
 - tarnish a reputation | 명성을 더럽히다 | /ˈtɑːrnɪʃ ə ˌrepjəˈteɪʃən/ | tarnish=금속이 변색되다 → 광택을 잃게 하다 | A single accounting scandal tarnished the firm's reputation built over half a century. | 단 한 번의 회계 부정이 반세기 동안 쌓은 회사의 명성을 더럽혔다.
 - mount a challenge | 도전하다, 이의를 제기하다 | /maʊnt ə ˈtʃæləndʒ/ | mount=준비해 개시하다 — mount a campaign도 | A coalition of local businesses plans to mount a legal challenge to the new zoning law. | 지역 업체 연합이 새 용도지역 규제에 법적 이의를 제기할 계획이다.
@@ -72,7 +72,7 @@ score_max: 600
 - relinquish control | 통제권을 내주다, 포기하다 | /rɪˈlɪŋkwɪʃ kənˈtroʊl/ | re+linquere(남기다) → 손을 떼고 넘기다 | The aging founder was reluctant to relinquish control of the company to his children. | 나이 든 창업주는 회사 경영권을 자녀들에게 넘기기를 꺼렸다.
 - cede ground | 양보하다, 입지를 내주다 | /siːd ɡraʊnd/ | cede=넘겨주다(cession) — give ground와 동의 | Neither side was willing to cede ground on the issue of wage increases. | 임금 인상 문제에서 어느 쪽도 물러서려 하지 않았다.
 - draw an inference | 추론하다 | /drɔː ən ˈɪnfərəns/ | draw an inference 'from' — 독해 추론 문항 용어 | Readers can draw an inference about the narrator's age from the details he mentions. | 독자는 화자가 언급하는 세부 사항으로부터 그의 나이를 추론할 수 있다.
-- hammer out a compromise | 진통 끝에 타협안을 도출하다 | /ˈhæmər aʊt ə ˈkɑːmprəmaɪz/ | hammer out=망치로 두드려 모양을 잡다 | Negotiators worked through the night to hammer out a compromise on the budget. | 협상단은 밤을 새워 예산 타협안을 도출해 냈다.
+- clinch a deal | 거래를 성사시키다, 계약을 매듭짓다 | /klɪntʃ ə diːl/ | clinch=못을 구부려 고정 → 막판에 확정 짓다 | A last-minute price concession helped the sales team clinch the deal with the retailer. | 막판 가격 양보 덕분에 영업팀은 그 유통업체와의 거래를 성사시켰다.
 - bear a striking resemblance | 놀랄 만큼 닮다 | /ber ə ˈstraɪkɪŋ rɪˈzembləns/ | bear a resemblance 'to' — have보다 격식체 | The suspect in the security footage bears a striking resemblance to a former employee. | 보안 영상 속 용의자는 전 직원과 놀랄 만큼 닮았다.
 - conjure images | 이미지를 떠올리게 하다 | /ˈkɑːndʒər ˈɪmɪdʒɪz/ | 흔히 conjure up images 'of' 형태로 출제 | The smell of freshly baked bread conjures images of my grandmother's warm kitchen. | 갓 구운 빵 냄새를 맡으면 할머니의 따뜻한 부엌이 떠오른다.
 - nurse ambitions | 야망을 품다 | /nɜːrs æmˈbɪʃənz/ | nurse=간호 → 꿈·감정을 오래 키우며 품다 | The young actor has long nursed ambitions of directing his own feature film. | 그 젊은 배우는 오래전부터 자기 장편 영화를 연출하겠다는 야망을 품어 왔다.

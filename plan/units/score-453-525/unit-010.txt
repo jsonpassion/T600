@@ -29,7 +29,7 @@ go along with
 go without
 fall through
 fall back on
-fall out
+drag on
 get around
 get at
 run out of
@@ -71,7 +71,7 @@ pan out
 see through
 pull off
 act up
-back out
+branch out
 bear on
 bear with
 blow over

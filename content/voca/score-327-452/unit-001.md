@@ -14,7 +14,7 @@ score_max: 452
 
 # 중급 001권 — 비즈니스 소통 — 이메일·일정·협상 콜로케이션
 
-- follow up on | ~에 대해 후속 조치하다, 다시 확인하다 | /ˈfɑːloʊ ʌp ɑːn/ | follow-up(명사·형용사)은 하이픈, 동사는 띄어 쓴다 | I'll follow up on your request once the budget has been approved. | 예산이 승인되는 대로 요청하신 건을 다시 확인해 드리겠습니다.
+- circle back | (나중에) 다시 논의하다, 다시 연락하다 | /ˈsɜːrkəl bæk/ | 회의 구어 — circle back to+안건, 당장 결론 미룰 때 | Let's circle back to the budget issue after we hear from finance. | 재무팀 의견을 들은 뒤에 예산 문제를 다시 논의합시다.
 - reach out to | ~에게 연락하다 | /riːtʃ aʊt tuː/ | 이메일 첫 줄 빈출 — to 뒤에 사람이 온다 | Please feel free to reach out to me if you have any questions. | 궁금한 점이 있으시면 언제든 제게 연락 주세요.
 - get in touch with | ~와 연락하다 | /ɡet ɪn tʌtʃ wɪð/ | 연락 유지는 keep in touch, 연락 끊김은 lose touch | I've been trying to get in touch with the supplier all morning. | 오전 내내 공급업체와 연락하려고 애쓰고 있어요.
 - keep someone posted | ~에게 계속 소식을 알려 주다 | /kiːp ˈsʌmwʌn ˈpoʊstɪd/ | 대화 완성 빈출 — Keep me posted! 형태로 암기 | Keep me posted on how the negotiations with the client are going. | 고객과의 협상이 어떻게 진행되는지 계속 알려 주세요.
@@ -66,7 +66,7 @@ score_max: 452
 - turn down | 거절하다, (소리를) 줄이다 | /tɜːrn daʊn/ | reject·decline의 구어형, 대명사는 turn it down 어순 | She turned down the job offer because the salary was too low. | 그녀는 급여가 너무 낮아서 그 일자리 제안을 거절했다.
 - back out of | (약속에서) 발을 빼다 | /bæk aʊt əv/ | 계약·거래에서 물러서다, of까지 한 덩어리 | The investor backed out of the deal at the last minute. | 투자자가 막판에 거래에서 발을 뺐다.
 - hold out for | (원하는 것을) 끝까지 요구하다 | /hoʊld aʊt fɔːr/ | for 뒤에 기다리는 조건 — 버티다 뉘앙스 | The workers are holding out for a ten percent pay raise. | 노동자들은 10퍼센트 임금 인상을 끝까지 요구하고 있다.
-- come to terms with | ~와 합의하다, ~을 받아들이다 | /kʌm tə tɜːrmz wɪð/ | terms 복수 필수 — 협상 합의·체념 수용 두 뜻 | The company has come to terms with the union on a new contract. | 회사는 노조와 새 계약에 합의했다.
+- come to terms with | ~와 합의하다, ~을 받아들이다 | /kʌm tə tɜːrmz wɪð/ | come to(합계가 ~이 되다)와 별개 — terms 복수, 합의·수용 | The company has come to terms with the union on a new contract. | 회사는 노조와 새 계약에 합의했다.
 - reach an agreement | 합의에 이르다 | /riːtʃ ən əˈɡriːmənt/ | reach는 타동사 — reach to an 오답 주의 | Both parties are expected to reach an agreement by Friday. | 양측은 금요일까지 합의에 이를 것으로 예상된다.
 - consensus | 합의, 의견 일치 | /kənˈsensəs/ | reach a consensus, general consensus 짝 | There is a growing consensus that the policy needs to change. | 그 정책을 바꿔야 한다는 공감대가 커지고 있다.
 - win-win | 모두에게 이로운 | /ˌwɪn ˈwɪn/ | win-win situation·solution 형용사로 쓰임 | Sharing the warehouse would be a win-win arrangement for both firms. | 창고를 공유하면 두 회사 모두에게 이로운 방안이 될 것이다.

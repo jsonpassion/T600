@@ -43,7 +43,7 @@ score_max: 600
 - omnibus bill | 일괄 법안 | /ˈɑːmnɪbəs bɪl/ | 라틴어 omnibus '모두를 위한' → 여러 안건을 한데 묶음 | Controversial provisions were quietly buried inside a massive omnibus bill. | 논란이 된 조항들이 거대한 일괄 법안 속에 조용히 묻혀 있었다.
 - sunset clause | 일몰 조항 | /ˈsʌnset klɔːz/ | 해가 지듯 기한 뒤 자동 소멸하는 조항 | The surveillance law includes a sunset clause requiring renewal after five years. | 그 감시법에는 5년 뒤 갱신을 요구하는 일몰 조항이 있다.
 - bicameral | 양원제의 | /baɪˈkæmərəl/ | bi(둘)+camera(방) → 의회가 두 방, ↔ unicameral | The country adopted a bicameral legislature modeled on the British Parliament. | 그 나라는 영국 의회를 본뜬 양원제 입법부를 채택했다.
-- come into force | (법이) 시행되다 | /kʌm ˈɪntuː fɔːrs/ | = take effect, go into effect — 전치사 into 주의 | The revised data protection rules will come into force next January. | 개정된 개인정보 보호 규정은 내년 1월부터 시행된다.
+- come into force | (법·조약이) 시행되다, 발효되다 | /kʌm ˈɪntuː fɔːrs/ | 법·조약 발효 숙어(=take effect), come into(물려받다)와 별개 | The treaty will not come into force until forty states have ratified it. | 그 조약은 40개국이 비준해야 비로소 발효된다.
 - tribunal | 재판소, 심판 기관 | /traɪˈbjuːnəl/ | 특정 분야 전담 법정 — war crimes tribunal | An international tribunal was established to try alleged war criminals. | 전범 혐의자를 재판하기 위해 국제 재판소가 설립되었다.
 - magistrate | 치안 판사 | /ˈmædʒɪstreɪt/ | magis(더 큰)+trate → 경범죄 담당 하급 판사 | The suspect appeared before a magistrate the morning after his arrest. | 용의자는 체포 다음 날 아침 치안 판사 앞에 출두했다.
 - counsel | 변호인, 조언하다 | /ˈkaʊnsəl/ | council(의회)과 혼동 — legal counsel 짝 | Defense counsel argued that the confession had been obtained under duress. | 피고 측 변호인은 자백이 강압으로 얻어졌다고 주장했다.

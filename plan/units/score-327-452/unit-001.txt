@@ -1,6 +1,6 @@
 # theme: 비즈니스 소통 — 이메일·일정·협상 콜로케이션
 # unit: voca-327-452-u001
-follow up on
+circle back
 reach out to
 get in touch with
 keep someone posted

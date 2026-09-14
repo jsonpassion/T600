@@ -31,7 +31,7 @@ score_max: 525
 - give up on | ~에 대한 기대를 버리다 | /ɡɪv ʌp ɑːn/ | give up=그만두다, on이 붙으면 사람·희망 포기 | Don't give up on him yet; he just needs a little more time. | 아직 그에 대한 기대를 버리지 마, 시간이 조금 더 필요할 뿐이야.
 - hold back | 억제하다, 망설이다 | /hoʊld bæk/ | hold back tears·information 짝, 감정 억누르기 | Investors are holding back until the central bank announces its decision. | 투자자들은 중앙은행이 결정을 발표할 때까지 관망하고 있다.
 - hold off | 미루다, 막아내다 | /hoʊld ɔːf/ | hold off on -ing=보류하다, postpone과 동의 | The committee decided to hold off on the vote until more data arrive. | 위원회는 자료가 더 들어올 때까지 표결을 미루기로 했다.
-- hold out | 버티다, (희망을) 품다 | /hoʊld aʊt/ | hold out for=얻을 때까지 버티다, hold out hope | The union is holding out for a better wage offer. | 노조는 더 나은 임금안이 나올 때까지 버티고 있다.
+- hold out | 버티다, (희망·가능성을) 품다 | /hoʊld aʊt/ | hold out hope=희망을 품다, for 없이 자동사면 버티다 | Rescuers still hold out hope of finding survivors under the rubble. | 구조대원들은 잔해 속에서 생존자를 찾을 희망을 아직 버리지 않고 있다.
 - come up with | (방안을) 생각해내다 | /kʌm ʌp wɪð/ | devise의 구어형 — idea·solution과 짝 | The engineers are coming up with a cheaper way to store solar energy. | 엔지니어들이 태양에너지를 더 저렴하게 저장할 방법을 고안하고 있다.
 - come across | 우연히 발견하다, ~한 인상을 주다 | /kʌm əˈkrɔːs/ | come across as+형용사=그렇게 보이다 | She comes across as confident, but she is actually quite shy. | 그녀는 자신감 있어 보이지만 사실은 꽤 수줍음을 탄다.
 - come down to | 결국 ~로 귀결되다 | /kʌm daʊn tuː/ | It all comes down to ~ 결론 문장 빈출 | In the end, the decision comes down to how much risk we can accept. | 결국 그 결정은 우리가 위험을 얼마나 감수할 수 있느냐로 귀결된다.
@@ -43,7 +43,7 @@ score_max: 525
 - go without | ~없이 지내다 | /ɡoʊ wɪˈðaʊt/ | do without과 동의, 결핍 강조 | Thousands of families are going without heat this winter. | 올겨울 수천 가구가 난방 없이 지내고 있다.
 - fall through | (계획이) 무산되다 | /fɔːl θruː/ | 주어는 deal·plan, 수동태 불가 자동사 | Without secured financing, the acquisition could easily fall through. | 자금이 확보되지 않으면 인수 계획은 쉽게 무산될 수 있다.
 - fall back on | ~에 의지하다 | /fɔːl bæk ɑːn/ | 비상시 기댈 대상, 명사 fallback=대비책 | Retirees with no pension must fall back on their savings. | 연금이 없는 퇴직자들은 저축에 기댈 수밖에 없다.
-- fall out | 사이가 틀어지다 | /fɔːl aʊt/ | fall out with 사람, 명사 fallout=여파 | The two founders have fallen out over the direction of the company. | 두 창업자는 회사의 방향을 두고 사이가 틀어졌다.
+- drag on | (지루하게) 질질 끌다, 오래 계속되다 | /dræɡ ɑːn/ | 자동사로만, drag out=일부러 끌다(타동사)와 구분 | The negotiations dragged on for months without any real progress. | 협상은 별다른 진전 없이 몇 달 동안 질질 끌었다.
 - get around | (규제를) 피하다, (소문이) 퍼지다 | /ɡet əˈraʊnd/ | get around=circumvent, get around to=짬 내서 하다 | Some firms get around the regulations by registering offshore. | 일부 기업은 해외에 법인을 등록해 규제를 피해 간다.
 - get at | (넌지시) 뜻하다, (진실을) 알아내다 | /ɡet æt/ | What are you getting at? 대화 완성 빈출 | I'm not sure what you're getting at; could you be more specific? | 무슨 말을 하려는지 잘 모르겠어, 좀 더 구체적으로 말해 줄래?
 - run out of | ~이 바닥나다 | /rʌn aʊt əv/ | 사람이 주어, 물건이 주어면 run out만 | We're running out of time, so let's skip the last agenda item. | 시간이 얼마 남지 않았으니 마지막 안건은 건너뜁시다.
@@ -67,7 +67,7 @@ score_max: 525
 - stand up for | 옹호하다, 지지하다 | /stænd ʌp fɔːr/ | stand up to=맞서다와 혼동 주의 | Good leaders stand up for their employees when things go wrong. | 좋은 리더는 일이 잘못될 때 직원들 편에 서 준다.
 - call for | 요구하다, 필요로 하다 | /kɔːl fɔːr/ | demand의 기사체, This calls for a celebration! | Environmental groups are calling for an immediate ban on the pesticide. | 환경 단체들은 그 살충제의 즉각적인 금지를 요구하고 있다.
 - call on | 촉구하다, 방문하다 | /kɔːl ɑːn/ | call on A to do=A에게 ~하라고 촉구 | The UN called on both sides to agree to a ceasefire. | 유엔은 양측에 휴전에 합의할 것을 촉구했다.
-- keep up | 유지하다, 뒤처지지 않다 | /kiːp ʌp/ | keep up with=따라가다, Keep up the good work | Small retailers struggle to keep up with online competitors. | 소규모 소매업체들은 온라인 경쟁사를 따라가느라 애를 먹는다.
+- keep up | (수준·속도를) 유지하다, 계속하다 | /kiːp ʌp/ | 목적어 바로 뒤=유지(keep up the pace), with 붙으면 따라가다 | If you keep up this pace, you'll finish the report by noon. | 이 속도를 유지하면 정오까지 보고서를 끝낼 거예요.
 - live up to | (기대에) 부응하다 | /lɪv ʌp tuː/ | live up to expectations·reputation 짝 고정 | The sequel failed to live up to the hype surrounding its release. | 그 속편은 개봉을 둘러싼 떠들썩한 기대에 미치지 못했다.
 - cut in | (말을) 끊다, 끼어들다 | /kʌt ɪn/ | 대화에 끼어들기=interrupt, 차선 끼어들기도 | Sorry to cut in, but your taxi is waiting outside. | 말씀 중에 죄송하지만 택시가 밖에서 기다리고 있어요.
 - do away with | 폐지하다 | /duː əˈweɪ wɪð/ | abolish의 구어형, 제도·규정 목적어 | Several states have voted to do away with the death penalty. | 여러 주가 사형 제도를 폐지하기로 의결했다.
@@ -85,7 +85,7 @@ score_max: 525
 - see through | 간파하다, 끝까지 해내다 | /siː θruː/ | see through 사람=간파, see A through=완수 | Most voters can easily see through the candidate's empty promises. | 대부분의 유권자는 그 후보의 빈말뿐인 공약을 쉽게 간파한다.
 - pull off | (어려운 일을) 해내다 | /pʊl ɔːf/ | pull off a deal·win 짝, 예상 밖 성공 뉘앙스 | Nobody thought the underdog team could pull off such a victory. | 아무도 약체 팀이 그런 승리를 거둘 거라 생각하지 않았다.
 - act up | 말썽을 부리다, 제대로 작동 안 하다 | /ækt ʌp/ | 기계·아이·지병이 주어, 구어 대화 빈출 | My printer is acting up again; can I use yours for a minute? | 내 프린터가 또 말썽이야, 잠깐 네 거 좀 써도 될까?
-- back out | (약속에서) 발을 빼다 | /bæk aʊt/ | back out of a deal, withdraw의 구어형 | The investor backed out of the deal at the last minute. | 투자자는 막판에 거래에서 발을 뺐다.
+- branch out | (사업·활동을) 확장하다, 새 분야로 진출하다 | /bræntʃ aʊt/ | 나뭇가지처럼 뻗어 나감 — branch out into+새 분야 | After years of selling books, the company branched out into streaming services. | 수년간 책을 팔던 그 회사는 스트리밍 서비스로 사업을 넓혔다.
 - bear on | ~와 관련되다, 영향을 미치다 | /ber ɑːn/ | have a bearing on과 같은 뜻의 격식 표현 | These findings bear directly on the debate over minimum wage. | 이번 연구 결과는 최저임금 논쟁과 직접적인 관련이 있다.
 - bear with | 참고 기다리다 | /ber wɪð/ | Please bear with me=잠시만 기다려 주세요 | Please bear with us while we resolve the technical problem. | 기술적인 문제를 해결하는 동안 조금만 기다려 주십시오.
 - blow over | (소동이) 잠잠해지다 | /bloʊ ˈoʊvər/ | 폭풍이 지나가듯 스캔들이 가라앉다 | The senator hoped the controversy would blow over before the election. | 그 상원의원은 선거 전에 논란이 잠잠해지기를 바랐다.
@@ -98,7 +98,7 @@ score_max: 525
 - eat into | (시간·돈을) 잠식하다 | /iːt ˈɪntuː/ | eat into profits·savings, erode와 동의 | Rising shipping costs are eating into the company's profit margins. | 치솟는 운송비가 회사의 이익률을 갉아먹고 있다.
 - edge out | 근소한 차로 이기다, 밀어내다 | /edʒ aʊt/ | edge=가장자리 → 간발의 차로 제치다 | The ruling party narrowly edged out its rival in the final count. | 여당은 최종 개표에서 경쟁 정당을 근소한 차로 제쳤다.
 - factor in | 고려에 넣다 | /ˈfæktər ɪn/ | factor A in=계산에 포함, factor out=제외 | When budgeting, remember to factor in the cost of insurance. | 예산을 짤 때 보험료도 반드시 포함해서 계산해.
-- fill in | 대신하다, 기입하다 | /fɪl ɪn/ | fill in for 사람=대타, fill in 사람 on=알려주다 | Could you fill in for me at the meeting while I'm away? | 내가 자리를 비운 동안 회의에 대신 좀 들어가 줄래?
+- fill in | 기입하다, (사정을) 알려 주다 | /fɪl ɪn/ | fill in a form=기입, fill 사람 in on=알려 줌 | Please fill in your contact details before submitting the application. | 신청서를 제출하기 전에 연락처를 기입해 주세요.
 - get through | 극복하다, 연락이 닿다 | /ɡet θruː/ | get through to=전화 연결·이해시키다 | Her family's support helped her get through the difficult treatment. | 가족의 지지 덕분에 그녀는 힘든 치료를 견뎌낼 수 있었다.
 - give way | 무너지다, 양보하다 | /ɡɪv weɪ/ | give way to=~로 대체되다 뜻도 독해 빈출 | The old bridge could give way under the weight of heavy trucks. | 그 낡은 다리는 대형 트럭의 무게를 못 이겨 무너질 수 있다.
 - go back on | (약속을) 어기다 | /ɡoʊ bæk ɑːn/ | go back on one's word·promise 짝 고정 | Voters will not forgive a leader who goes back on his promises. | 유권자들은 약속을 저버리는 지도자를 용서하지 않을 것이다.
