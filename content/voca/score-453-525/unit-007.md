@@ -45,12 +45,12 @@ score_max: 525
 - trauma | 정신적 외상, 트라우마 | /ˈtrɔːmə/ | 형용사 traumatic — 의학에선 신체 외상 | Many survivors of the earthquake still suffer from trauma years later. | 지진 생존자 중 다수가 수년이 지난 지금도 트라우마에 시달린다.
 - reinforce | 강화하다, 보강하다 | /ˌriːɪnˈfɔːrs/ | re+in+force → 힘을 더 넣다, 행동·편견 강화 | Praising effort rather than talent reinforces the habit of working hard. | 재능보다 노력을 칭찬하면 열심히 하는 습관이 강화된다.
 - reward | 보상, 보상하다 | /rɪˈwɔːrd/ | reward A for B — rewarding '보람 있는' | Dogs learn tricks faster when they receive an immediate reward for success. | 개는 성공 즉시 보상을 받을 때 재주를 더 빨리 익힌다.
-- conditioning | 조건 형성, 길들이기 | /kənˈdɪʃənɪŋ/ | 파블로프의 개 — 다의어: 체력 단련·냉방 | Through repeated conditioning, the rats learned to press the lever for food. | 반복된 조건 형성을 통해 쥐들은 먹이를 얻으려고 지렛대를 누르는 법을 배웠다.
+- conditioning | 조건 형성, 길들이기 | /kənˈdɪʃənɪŋ/ | 파블로프의 개 — 다의어: 체력 단련, air conditioning(냉방) | Through repeated conditioning, the rats learned to press the lever for food. | 반복된 조건 형성을 통해 쥐들은 먹이를 얻으려고 지렛대를 누르는 법을 배웠다.
 - habituate | 익숙해지다, 익숙하게 하다 | /həˈbɪtʃueɪt/ | habituate oneself 'to' — 반복 자극에 둔감해짐 | Residents near the airport eventually habituate to the constant roar of jets. | 공항 근처 주민들은 결국 끊임없는 제트기 굉음에 익숙해진다.
 - habit | 습관 | /ˈhæbɪt/ | break/kick a habit '습관을 끊다' 콜로케이션 | Checking email first thing every morning is a habit that drains focus. | 매일 아침 가장 먼저 이메일을 확인하는 것은 집중력을 갉아먹는 습관이다.
 - procrastinate | 미루다, 꾸물거리다 | /proʊˈkræstɪneɪt/ | pro(앞으로)+crastin(내일) → 내일로 미루다 | I always procrastinate until the night before the deadline, and then panic. | 나는 늘 마감 전날 밤까지 미루다가 허둥지둥한다.
 - gratification | 만족, 충족 | /ˌɡrætɪfɪˈkeɪʃən/ | instant ↔ delayed gratification 짝 빈출 | The marshmallow test measured children's ability to delay gratification. | 마시멜로 실험은 아이들의 만족 지연 능력을 측정했다.
-- willpower | 의지력 | /ˈwɪlpaʊər/ | 문어 self-discipline과 유사 — lack willpower | It takes considerable willpower to stick to a diet during the holidays. | 연휴 동안 식단을 지키려면 상당한 의지력이 필요하다.
+- willpower | 의지력 | /ˈwɪlpaʊər/ | ≒ self-discipline · lack willpower=의지력 부족 | It takes considerable willpower to stick to a diet during the holidays. | 연휴 동안 식단을 지키려면 상당한 의지력이 필요하다.
 - self-control | 자제력 | /ˌself kənˈtroʊl/ | lose one's self-control '자제력을 잃다' | Studies link childhood self-control with better health and income in later life. | 연구들은 어린 시절의 자제력을 훗날의 더 나은 건강과 소득과 연관 짓는다.
 - rationalize | 합리화하다 | /ˈræʃənəlaɪz/ | 핑계로 정당화 — 경영에선 '합리화·효율화' | Smokers often rationalize their habit by pointing to relatives who lived long lives. | 흡연자들은 흔히 장수한 친척을 예로 들며 자신의 습관을 합리화한다.
 - denial | 부인, 부정 | /dɪˈnaɪəl/ | be in denial '현실을 인정하지 않다' 숙어 | He remained in denial about his drinking problem until his health collapsed. | 그는 건강이 무너질 때까지 자신의 음주 문제를 인정하지 않았다.
@@ -81,7 +81,7 @@ score_max: 525
 - depressed | 우울한, 침체된 | /dɪˈprest/ | 경제 기사: depressed market '침체된 시장' | He felt depressed for weeks after being turned down for the promotion. | 승진에서 탈락한 뒤 그는 몇 주 동안 우울했다.
 - melancholy | 우울, 구슬픈 | /ˈmelənkɑːli/ | 문어·문학적 — -ly지만 형용사·명사 | The old photographs filled her with a quiet melancholy for her childhood. | 오래된 사진들은 그녀에게 어린 시절에 대한 잔잔한 애수를 불러일으켰다.
 - apathy | 무관심, 냉담 | /ˈæpəθi/ | a(없음)+pathy(감정) → 감정 없음 | Voter apathy resulted in the lowest turnout in the city's history. | 유권자들의 무관심으로 시 역사상 최저 투표율이 나왔다.
-- indifferent | 무관심한 | /ɪnˈdɪfrənt/ | be indifferent 'to' — different와 무관한 뜻 | The government seemed indifferent to the growing complaints about air pollution. | 정부는 대기 오염에 대한 커지는 불만에 무관심한 듯했다.
+- indifferent | 무관심한 | /ɪnˈdɪfrənt/ | be indifferent 'to' — '다르지 않은'이 아니라 '무관심한' 뜻 | The government seemed indifferent to the growing complaints about air pollution. | 정부는 대기 오염에 대한 커지는 불만에 무관심한 듯했다.
 - complacent | 안주하는, 자만한 | /kəmˈpleɪsənt/ | complaisant(순종적)과 혼동 — 명사 complacency | Market leaders that grow complacent are often overtaken by hungrier startups. | 안주하는 업계 선두 기업은 흔히 더 절박한 신생 기업에 추월당한다.
 - overconfident | 과신하는, 지나치게 자신만만한 | /ˌoʊvərˈkɑːnfɪdənt/ | over(지나치게)+confident — 명사 overconfidence | Overconfident investors tend to trade too often and earn lower returns. | 과신하는 투자자들은 거래를 너무 자주 해서 수익이 더 낮은 경향이 있다.
 - insecure | 자신감 없는, 불안정한 | /ˌɪnsɪˈkjʊr/ | 사람=자신 없는, 일자리=불안정한 다의어 | He feels insecure about speaking English in front of native speakers. | 그는 원어민 앞에서 영어로 말하는 데 자신이 없다.
@@ -94,12 +94,12 @@ score_max: 525
 - abnormal | 비정상적인 | /æbˈnɔːrməl/ | ab(떨어져)+normal — abnormal psychology '이상심리학' | Doctors ordered further tests after noticing abnormal patterns in his heartbeat. | 의사들은 그의 심장 박동에서 비정상적인 패턴을 발견하고 추가 검사를 지시했다.
 - eccentric | 괴짜인, 별난 | /ɪkˈsentrɪk/ | ec(밖)+centr(중심) → 중심을 벗어난 | The eccentric billionaire left his entire fortune to a home for stray cats. | 그 괴짜 억만장자는 전 재산을 길고양이 보호소에 남겼다.
 - mimic | 흉내 내다 | /ˈmɪmɪk/ | 과거형 mimicked — k 추가 철자 주의 | Parrots can mimic human speech, but they do not understand the words. | 앵무새는 사람 말을 흉내 낼 수 있지만 그 뜻을 이해하지는 못한다.
-- imitate | 모방하다 | /ˈɪmɪteɪt/ | mimic=우스꽝스러운 흉내, imitate=본뜨기 | Young children learn language largely by imitating the adults around them. | 어린아이들은 주로 주변 어른들을 모방하며 언어를 배운다.
+- imitate | 모방하다 | /ˈɪmɪteɪt/ | mimic=그대로 흉내(놀림 뉘앙스), imitate=본받아 따라 하기 | Young children learn language largely by imitating the adults around them. | 어린아이들은 주로 주변 어른들을 모방하며 언어를 배운다.
 - manipulate | 조종하다, 조작하다 | /məˈnɪpjuleɪt/ | manu(손) → 손으로 주무르다, 데이터 조작도 | The cult leader manipulated his followers into giving up their savings. | 그 사이비 교주는 신도들을 조종해 저축한 돈을 내놓게 했다.
 - gullible | 잘 속는 | /ˈɡʌləbəl/ | gull(속이다)+ible — naive보다 강한 부정 | Only a gullible person would believe an email promising free millions. | 공짜로 수백만 달러를 준다는 이메일은 잘 속는 사람이나 믿을 것이다.
 - naive | 순진한, 세상 물정 모르는 | /naɪˈiːv/ | 영어에선 부정적 — 칭찬 아님 주의 | It was naive of me to think the landlord would return the deposit promptly. | 집주인이 보증금을 바로 돌려줄 거라 생각한 건 내가 순진했다.
 - wary | 조심하는, 경계하는 | /ˈweri/ | be wary 'of' — weary(지친)와 철자 혼동 | Investors remain wary of tech stocks after last year's sharp decline. | 투자자들은 작년의 급락 이후 기술주를 여전히 경계하고 있다.
-- paranoid | 편집증적인, 지나치게 의심하는 | /ˈpærənɔɪd/ | 명사 paranoia — be paranoid about 구조 | Don't be so paranoid, nobody is reading your private messages. | 너무 의심하지 마, 아무도 네 개인 메시지 안 읽어.
+- paranoid | 편집증적인, 지나치게 의심하는 | /ˈpærənɔɪd/ | 명사 paranoia — be paranoid about 구조 | Don't be so paranoid; nobody is reading your private messages. | 너무 의심하지 마, 아무도 네 개인 메시지 안 읽어.
 - irrational | 비이성적인 | /ɪˈræʃənəl/ | ir(부정)+rational — irrational fear 짝 | Behavioral economics shows that consumers often make irrational financial choices. | 행동경제학은 소비자들이 흔히 비이성적인 금융 선택을 한다는 것을 보여 준다.
 - subjective | 주관적인 | /səbˈdʒektɪv/ | ↔ objective(객관적) 짝으로 출제 | Judging art is inevitably subjective, so critics rarely agree completely. | 예술 평가는 필연적으로 주관적이어서 비평가들이 완전히 의견을 같이하는 일은 드물다.
 - introspection | 자기 성찰, 내성 | /ˌɪntrəˈspekʃən/ | intro(안)+spect(보다) → 자기 속을 들여다봄 | The long illness gave him time for introspection about what truly mattered. | 긴 투병 생활은 그에게 무엇이 진정 중요한지 성찰할 시간을 주었다.

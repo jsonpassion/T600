@@ -59,7 +59,7 @@ score_max: 452
 - cut off | 관계를 끊다, (말을) 끊다 | /kʌt ɔːf/ | 전화·공급 차단, 말 끊기까지 문맥 다의어 | After the argument, she cut off all contact with her brother. | 그 다툼 이후 그녀는 오빠와의 연락을 완전히 끊었다.
 - give someone the cold shoulder | ~을 냉대하다, 쌀쌀맞게 대하다 | /ɡɪv ˈsʌmwʌn ðə koʊld ˈʃoʊldər/ | 어깨만 보이며 외면 — 대화에서 ignore의 관용 표현 | Why is Jenny giving me the cold shoulder? Did I say something wrong? | 제니가 왜 나한테 쌀쌀맞게 굴지? 내가 뭐 말실수했나?
 - stab someone in the back | ~의 뒤통수를 치다, 배신하다 | /stæb ˈsʌmwʌn ɪn ðə bæk/ | backstabber=배신자 — 믿던 사람의 배신에 한정 | I can't believe my own business partner would stab me in the back. | 내 동업자가 뒤통수를 칠 줄은 정말 몰랐어.
-- betray | 배신하다, (비밀을) 누설하다 | /bɪˈtreɪ/ | betrayal(명사) — 감정을 '드러내다' 뜻도 출제 | The spy was accused of betraying state secrets to a foreign government. | 그 첩보원은 국가 기밀을 외국 정부에 넘긴 혐의로 기소되었다.
+- betray | 배신하다, (비밀을) 누설하다 | /bɪˈtreɪ/ | betrayal(명사) — 감정을 '드러내다' 뜻도 출제 | The spy was accused of betraying state secrets to a foreign government. | 그 첩보원은 국가 기밀을 외국 정부에 넘긴 혐의를 받았다.
 - trustworthy | 믿을 만한 | /ˈtrʌstwɜːrði/ | -worthy(~할 가치) → praiseworthy도 같은 틀 | Voters want a candidate who is honest and trustworthy. | 유권자들은 정직하고 믿을 만한 후보를 원한다.
 - count on | ~에게 의지하다, 믿다 | /kaʊnt ɑːn/ | rely on·depend on과 동의 — You can count on me! | You can always count on Mike to finish the job on time. | 마이크라면 일을 제때 끝낼 거라고 언제든 믿어도 돼.
 - confide in | ~에게 속마음을 털어놓다 | /kənˈfaɪd ɪn/ | con(완전히)+fide(믿다) → confidential의 친척 | She confided in her mentor about her doubts over the new job. | 그녀는 새 직장에 대한 고민을 멘토에게 털어놓았다.

@@ -33,12 +33,12 @@ score_max: 525
 - equity | (주식) 지분·자기자본, 형평성 | /ˈɛkwəti/ | equity stake=지분 — 사회 문맥에선 형평 | Investors hold a thirty percent equity stake in the startup. | 투자자들은 그 신생 기업의 지분 30퍼센트를 보유하고 있다.
 - portfolio | 투자 자산 구성, 작품집 | /pɔrtˈfoʊlioʊ/ | a diversified portfolio 콜로케이션 | Financial advisers recommend reviewing your investment portfolio at least once a year. | 재무 상담가들은 투자 포트폴리오를 최소 1년에 한 번 점검하라고 권한다.
 - diversify | 다각화하다, 분산하다 | /daɪˈvɝsəfaɪ/ | diversify 'into' 새 사업 — 전치사 into | The conglomerate diversified into renewable energy to reduce its risk. | 그 대기업은 위험을 줄이기 위해 재생 에너지 분야로 사업을 다각화했다.
-- securities | 유가증권 | /sɪˈkjʊrətiz/ | 복수형이면 증권 — security(보안)와 구분 | The firm was fined for selling risky securities to retirees. | 그 회사는 은퇴자들에게 위험한 증권을 판매해 벌금을 물었다.
+- securities | 유가증권 | /sɪˈkjʊrətiz/ | 증권 뜻은 주로 복수형 — 단수 security(보안)와 구분 | The firm was fined for selling risky securities to retirees. | 그 회사는 은퇴자들에게 위험한 증권을 판매해 벌금을 물었다.
 - shareholder | 주주 | /ˈʃɛrˌhoʊldɚ/ | share(주식)+holder — stockholder와 동의 | Angry shareholders demanded the resignation of the chief executive. | 분노한 주주들은 최고경영자의 사임을 요구했다.
 - venture capital | 벤처 자본 | /ˈvɛntʃɚ ˈkæpətəl/ | 초기 기업에 거는 고위험 투자금 | The biotech startup raised twenty million dollars in venture capital. | 그 바이오 신생 기업은 벤처 자본으로 2천만 달러를 조달했다.
 - return on investment | 투자 수익률 | /rɪˈtɝn ɑn ɪnˈvɛstmənt/ | 약어 ROI — return 'on' 전치사 주의 | The board questioned the return on investment of the new marketing campaign. | 이사회는 새 마케팅 캠페인의 투자 수익률에 의문을 제기했다.
 - yield | (수익을) 내다, 굴복하다 | /jiːld/ | yield to pressure=압력에 굴복 — 명사는 수익률 | Government bonds currently yield about four percent a year. | 국채는 현재 연 4퍼센트 정도의 수익을 낸다.
-- speculate | 투기하다, 추측하다 | /ˈspɛkjəleɪt/ | speculate 'in' 주식=투기, 'on/about'=추측 | Many amateurs speculated in cryptocurrency and lost their savings. | 많은 초보자들이 암호화폐에 투기했다가 저축을 잃었다.
+- speculate | 투기하다, 추측하다 | /ˈspɛkjəleɪt/ | in=투기, about=추측 ('on'은 두 뜻 모두) | Many amateurs speculated in cryptocurrency and lost their savings. | 많은 초보자들이 암호화폐에 투기했다가 저축을 잃었다.
 - volatility | 변동성 | /ˌvɑləˈtɪləti/ | volatile(휘발성) → 쉽게 날아가는 가격 | Market volatility has made investors wary of long-term commitments. | 시장 변동성 때문에 투자자들은 장기 투자를 꺼리게 되었다.
 - bull market | 강세장 | /bʊl ˈmɑrkɪt/ | 황소는 뿔을 위로 치받음 → 상승장 | The bull market pushed the index to a record high this spring. | 강세장에 힘입어 지수는 올봄 사상 최고치를 기록했다.
 - bear market | 약세장 | /bɛr ˈmɑrkɪt/ | 곰은 앞발을 아래로 내리침 → 하락장 | Stocks officially entered a bear market after falling twenty percent. | 주가가 20퍼센트 하락하면서 공식적으로 약세장에 진입했다.
@@ -74,7 +74,7 @@ score_max: 525
 - level off | 안정되다, 보합세를 보이다 | /ˈlɛvəl ɔf/ | 오르내리던 수치가 평평해짐 — plateau와 동의 | After years of rapid growth, sales have begun to level off. | 수년간 급성장한 뒤 판매량이 보합세에 접어들기 시작했다.
 - devalue | (화폐) 평가절하하다 | /diˈvælju/ | de(아래)+value → 가치를 낮춤 | The central bank devalued the currency to make exports cheaper. | 중앙은행은 수출품 가격을 낮추기 위해 통화를 평가절하했다.
 - capital flight | 자본 도피 | /ˈkæpətəl flaɪt/ | flight=도주 — 불안정 국가에서 돈이 빠져나감 | Political turmoil triggered massive capital flight from the country. | 정치적 혼란이 그 나라에서 대규모 자본 도피를 촉발했다.
-- foreign direct investment | 해외 직접 투자 | /ˈfɔrən dəˈrɛkt ɪnˈvɛstmənt/ | 약어 FDI — 공장 설립 등 경영 참여형 투자 | Tax incentives attracted a surge of foreign direct investment. | 세제 혜택이 해외 직접 투자의 급증을 이끌어 냈다.
+- foreign direct investment | 외국인 직접 투자, 해외 직접 투자 | /ˈfɔrən dəˈrɛkt ɪnˈvɛstmənt/ | 약어 FDI — 공장 설립 등 경영 참여형 투자 | Tax incentives attracted a surge of foreign direct investment. | 세제 혜택이 외국인 직접 투자의 급증을 이끌어 냈다.
 - inflow | 유입 | /ˈɪnfloʊ/ | inflow↔outflow 짝, capital inflow 빈출 | The sudden inflow of foreign capital pushed up property prices. | 외국 자본의 갑작스러운 유입으로 부동산 가격이 올랐다.
 - sluggish | 부진한, 느린 | /ˈslʌɡɪʃ/ | slug(민달팽이)처럼 느린 — robust의 반대 | Sluggish consumer demand has kept inflation below the target. | 소비 수요 부진으로 인플레이션이 목표치를 밑돌고 있다.
 - robust | 견실한, 튼튼한 | /roʊˈbʌst/ | robust growth — sluggish와 반의어로 출제 | The economy showed robust growth despite global uncertainty. | 세계적 불확실성에도 경제는 견실한 성장세를 보였다.

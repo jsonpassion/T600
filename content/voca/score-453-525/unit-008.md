@@ -16,7 +16,7 @@ score_max: 525
 
 - assert | 주장하다, 단언하다 | /əˈsɝt/ | assert oneself는 '자기주장을 펴다' — 재귀 용법 빈출 | The minister asserted that the new policy would not raise taxes. | 장관은 새 정책이 세금을 올리지 않을 것이라고 단언했다.
 - contend | 주장하다, 경쟁하다 | /kənˈtɛnd/ | contend that(주장) vs contend with(난관과 씨름하다) | Critics contend that the reform favors large corporations over small firms. | 비평가들은 그 개혁이 소기업보다 대기업에 유리하다고 주장한다.
-- maintain | 주장하다, 유지하다 | /meɪnˈteɪn/ | maintain that절이면 '유지'가 아니라 '주장' | The suspect has maintained his innocence throughout the lengthy trial. | 피의자는 긴 재판 내내 자신의 결백을 주장해 왔다.
+- maintain | 주장하다, 유지하다 | /meɪnˈteɪn/ | maintain that절·innocence 목적어면 '주장' | The suspect has maintained his innocence throughout the lengthy trial. | 피의자는 긴 재판 내내 자신의 결백을 주장해 왔다.
 - allege | (증거 없이) 주장하다, 혐의를 제기하다 | /əˈlɛdʒ/ | 증거 없는 주장 — 형용사 alleged(혐의를 받는) 빈출 | The lawsuit alleges that the company concealed safety problems for years. | 소송은 그 회사가 수년간 안전 문제를 숨겼다고 주장한다.
 - posit | (전제로) 상정하다, 가정하다 | /ˈpɑːzɪt/ | position(자리)과 같은 뿌리 — 논의의 출발점에 놓다 | The theory posits that language shapes the way people perceive reality. | 그 이론은 언어가 사람들의 현실 인식 방식을 형성한다고 상정한다.
 - espouse | (사상을) 신봉하다, 지지하다 | /ɪˈspaʊz/ | spouse(배우자)처럼 사상을 품다 — espouse a cause | The party has long espoused free trade and minimal regulation. | 그 정당은 오랫동안 자유 무역과 최소한의 규제를 지지해 왔다.
@@ -29,7 +29,7 @@ score_max: 525
 - call into question | 의문을 제기하다 | /kɔːl ˈɪntuː ˈkwɛstʃən/ | call A into question — 목적어가 길면 맨 뒤로 보냄 | The scandal has called into question the integrity of the entire board. | 그 스캔들로 이사회 전체의 청렴성에 의문이 제기되었다.
 - object to | ~에 반대하다 | /əbˈdʒɛkt tuː/ | to는 전치사 — object to -ing 형태 주의 | Several residents objected to building a factory near the school. | 몇몇 주민들은 학교 근처에 공장을 짓는 데 반대했다.
 - dissent | 반대하다, 반대 의견 | /dɪˈsɛnt/ | dis(떨어져)+sent(느끼다) — dissent from 짝 | Two judges dissented from the majority opinion in the landmark ruling. | 그 획기적인 판결에서 판사 두 명이 다수 의견에 반대했다.
-- take issue with | ~에 이의를 제기하다 | /teɪk ˈɪʃuː wɪð/ | take issue ‘with’ 전치사까지 한 덩어리 | I take issue with your claim that the project was a total failure. | 그 프로젝트가 완전한 실패였다는 당신의 주장에는 동의할 수 없어요.
+- take issue with | ~에 이의를 제기하다 | /teɪk ˈɪʃuː wɪð/ | take issue ‘with’ 전치사까지 한 덩어리 | I take issue with your claim that the project was a total failure. | 그 프로젝트가 완전한 실패였다는 당신의 주장에는 이의가 있어요.
 - admit | 인정하다, 입장을 허락하다 | /ədˈmɪt/ | admit -ing 동명사 목적어 — to부정사 오답 | The CEO admitted making serious errors in the company's expansion strategy. | 최고경영자는 회사 확장 전략에서 심각한 실수를 저질렀음을 인정했다.
 - admittedly | 인정하건대, 물론 | /ədˈmɪtɪdli/ | 양보 신호 — 뒤에 but 반전이 따라온다 | Admittedly, the plan is expensive, but its long-term benefits are clear. | 물론 그 계획은 비용이 많이 들지만 장기적 이점은 분명하다.
 - albeit | 비록 ~이지만 | /ɔːlˈbiːɪt/ | 절이 아닌 형용사·부사구 앞 — albeit slowly | The economy is recovering, albeit at a slower pace than expected. | 예상보다 느린 속도이긴 하지만 경제는 회복되고 있다.
@@ -40,7 +40,7 @@ score_max: 525
 - granted that | ~이라 하더라도, ~은 인정하지만 | /ˈɡræntɪd ðæt/ | take A for granted와 구별 — 양보 접속사 | Granted that the idea is bold, it still deserves serious consideration. | 그 아이디어가 대담하다는 건 인정하지만 여전히 진지하게 검토할 가치가 있다.
 - even so | 그렇다 하더라도 | /ˈiːvən soʊ/ | 앞 내용 인정 후 반전 — 대화 완성 빈출 | The hotel was pricey. Even so, I'd definitely stay there again. | 호텔은 비쌌어요. 그렇다 해도 꼭 다시 묵고 싶어요.
 - be that as it may | 그렇기는 하지만 | /biː ðæt æz ɪt meɪ/ | 가정법 be 원형 — 문어적 양보 관용구 | Be that as it may, we cannot ignore the safety risks involved. | 그렇기는 하지만 우리는 관련된 안전 위험을 무시할 수 없다.
-- on the contrary | 오히려, 그와는 반대로 | /ɑːn ðə ˈkɑːntrɛri/ | 앞말 부정 후 정반대 — by contrast(대조)와 혼동 | The test wasn't easy at all. On the contrary, it was brutally difficult. | 시험은 전혀 쉽지 않았어. 오히려 지독하게 어려웠지.
+- on the contrary | 오히려, 그와는 반대로 | /ɑːn ðə ˈkɑːntrɛri/ | 앞말 부정 후 정반대 — by contrast(대조)와 혼동 주의 | The test wasn't easy at all. On the contrary, it was brutally difficult. | 시험은 전혀 쉽지 않았어. 오히려 지독하게 어려웠지.
 - by contrast | 대조적으로 | /baɪ ˈkɑːntræst/ | 두 대상 비교 — 앞말을 부정하지 않음 | Sales in Europe fell; by contrast, Asian markets grew by twelve percent. | 유럽 매출은 줄었다. 대조적으로 아시아 시장은 12퍼센트 성장했다.
 - conversely | 반대로, 역으로 | /kənˈvɝsli/ | converse(역) — A→B의 뒤집힌 관계 제시 | High inflation reduces savings; conversely, low inflation tends to encourage them. | 높은 물가 상승은 저축을 줄이며, 반대로 낮은 물가 상승은 저축을 장려하는 경향이 있다.
 - in light of | ~에 비추어, ~을 고려하여 | /ɪn laɪt ʌv/ | 새 정보·사건 앞 — in light of recent events | In light of the recent attacks, security at the airport has been tightened. | 최근 공격들을 고려해 공항 보안이 강화되었다.
