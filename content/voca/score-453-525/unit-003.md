@@ -17,8 +17,8 @@ score_max: 525
 - control group | 대조군 | /kənˈtroʊl ɡruːp/ | 처치를 받는 쪽은 experimental group — 짝으로 암기 | Patients in the control group received a placebo instead of the new medication. | 대조군 환자들은 신약 대신 위약을 받았다.
 - replicate | (실험을) 재현하다, 복제하다 | /ˈreplɪkeɪt/ | re(다시)+plic(접다) → 같은 결과를 다시 만들어 내다 | Other laboratories have so far failed to replicate the team's surprising results. | 다른 연구소들은 지금까지 그 팀의 놀라운 결과를 재현하지 못했다.
 - validate | 입증하다, 타당성을 확인하다 | /ˈvælɪdeɪt/ | valid(유효한)+ate — 가설·데이터를 목적어로 | Further clinical trials are needed to validate the effectiveness of the treatment. | 그 치료법의 효과를 입증하려면 추가 임상 시험이 필요하다.
-- falsify | 위조하다, 반증하다 | /ˈfɔːlsɪfaɪ/ | 연구 부정 문맥 falsify data=데이터 조작 | The researcher was dismissed after it emerged that he had falsified his data. | 그 연구원은 데이터를 조작한 사실이 드러난 뒤 해고되었다.
-- anomaly | 이상 현상, 변칙 | /əˈnɑːməli/ | 그리스어 an(아닌)+homalos(고른) → 고르지 않은 것 | Scientists initially dismissed the unusual reading as a mere anomaly caused by faulty equipment. | 과학자들은 처음에 그 이상한 수치를 결함 있는 장비 탓에 생긴 단순한 이상치로 치부했다.
+- falsify | 위조하다, 조작하다, 반증하다 | /ˈfɔːlsɪfaɪ/ | 연구 부정 문맥 falsify data=데이터 조작 | The researcher was dismissed after it emerged that he had falsified his data. | 그 연구원은 데이터를 조작한 사실이 드러난 뒤 해고되었다.
+- anomaly | 이상 현상, 이상치, 변칙 | /əˈnɑːməli/ | 그리스어 an(아닌)+homalos(고른) → 고르지 않은 것 | Scientists initially dismissed the unusual reading as a mere anomaly caused by faulty equipment. | 과학자들은 처음에 그 이상한 수치를 결함 있는 장비 탓에 생긴 단순한 이상치로 치부했다.
 - phenomenon | 현상 | /fəˈnɑːmɪnɑːn/ | 복수형 phenomena — 수 일치 문법 문제 단골 | The northern lights are a natural phenomenon caused by charged solar particles. | 오로라는 태양의 대전 입자가 일으키는 자연 현상이다.
 - specimen | 표본, 견본 | /ˈspesɪmən/ | collect·preserve specimens — 박물관·실험실 문맥 짝 | The museum stores thousands of insect specimens collected over two centuries. | 그 박물관은 두 세기에 걸쳐 수집한 곤충 표본 수천 점을 보관하고 있다.
 - sample size | 표본 크기 | /ˈsæmpəl saɪz/ | small sample size → 결론 신뢰도 비판의 단골 근거 | Critics argued that the study's small sample size made its conclusions unreliable. | 비평가들은 그 연구의 표본 크기가 작아 결론을 믿기 어렵다고 주장했다.
@@ -69,7 +69,7 @@ score_max: 525
 - extrapolate | (기존 자료로) 추정하다 | /ɪkˈstræpəleɪt/ | extra(밖)+(inter)polate — 자료 범위 밖으로 확장해 추론 | It is risky to extrapolate long-term trends from just a few months of data. | 몇 달 치 자료만으로 장기 추세를 추정하는 것은 위험하다.
 - infer | 추론하다 | /ɪnˈfɜːr/ | infer A from B — imply(암시하다)와 혼동 주의 | From the fossil evidence, scientists inferred that the region was once underwater. | 화석 증거로부터 과학자들은 그 지역이 한때 물속이었다고 추론했다.
 - deduce | 추론해 내다, 연역하다 | /dɪˈduːs/ | de(아래로)+duce(이끌다) — 명 deduction | Detectives deduced the time of the crime from the temperature of the room. | 형사들은 방의 온도로부터 범행 시각을 추론해 냈다.
-- theorem | 정리 | /ˈθiːərəm/ | theory는 가설 체계, theorem은 증명된 명제 | The mathematician spent seven years trying to prove the famous theorem. | 그 수학자는 유명한 정리를 증명하려고 7년을 매달렸다.
+- theorem | 정리 | /ˈθiːərəm/ | theory(이론)와 달리 theorem은 증명된 수학 명제 | The mathematician spent seven years trying to prove the famous theorem. | 그 수학자는 유명한 정리를 증명하려고 7년을 매달렸다.
 - formula | 공식, 제조법 | /ˈfɔːrmjələ/ | 복수 formulas·formulae — 분유는 infant formula | Engineers use a simple formula to calculate the load the bridge can bear. | 엔지니어들은 간단한 공식으로 다리가 견딜 수 있는 하중을 계산한다.
 - equation | 방정식, 등식 | /ɪˈkweɪʒən/ | equate에서 — 비유로 고려 요소: part of the equation | Einstein's famous equation shows that mass and energy are interchangeable. | 아인슈타인의 유명한 방정식은 질량과 에너지가 서로 바뀔 수 있음을 보여 준다.
 - derive | 끌어내다, 유래하다 | /dɪˈraɪv/ | derive from=~에서 유래하다 — be derived from | Many modern medicines are derived from compounds found in plants. | 많은 현대 의약품은 식물에서 발견된 화합물에서 얻어진다.

@@ -69,7 +69,7 @@ score_max: 525
 - loot | 약탈하다, 약탈품 | /luːt/ | 폭동 기사에 looting 형태로 빈출 | Many treasures were looted from the palace during the war. | 전쟁 중 궁전에서 많은 보물이 약탈당했다.
 - raid | 급습, 습격하다 | /reɪd/ | police raid(단속)·air raid(공습) 짝 | Viking raids terrorized coastal villages across northern Europe. | 바이킹의 습격은 북유럽 해안 마을들을 공포에 떨게 했다.
 - revolt | 반란, 반란을 일으키다 | /rɪˈvoʊlt/ | revolting=역겨운 — 형용사 뜻 함정 | Peasants revolted against the landlords after a series of failed harvests. | 잇따른 흉작 끝에 농민들이 지주들에게 반란을 일으켰다.
-- rebellion | 반란, 반항 | /rɪˈbɛljən/ | 명사 REB-el, 동사 re-BEL — 강세로 품사 구분 | The rebellion was crushed within weeks by royal troops. | 그 반란은 몇 주 만에 왕실 군대에 진압되었다.
+- rebellion | 반란, 반항 | /rɪˈbɛljən/ | rebel(REB-el)과 달리 re-BEL-lion 강세 | The rebellion was crushed within weeks by royal troops. | 그 반란은 몇 주 만에 왕실 군대에 진압되었다.
 - uprising | 봉기, 반란 | /ˈʌpˌraɪzɪŋ/ | 민중이 일어섬 — popular uprising 짝 | A popular uprising forced the dictator to flee the capital. | 민중 봉기로 독재자는 수도를 떠나 도망쳤다.
 - overthrow | 전복시키다, 타도 | /ˌoʊvərˈθroʊ/ | 과거형 overthrew, 과거분사 overthrown | Rebels overthrew the government and declared a new republic. | 반군은 정부를 전복하고 새 공화국을 선포했다.
 - emancipate | 해방시키다 | /ɪˈmænsəˌpeɪt/ | Emancipation Proclamation(노예해방선언) | The decree emancipated thousands of enslaved workers on the plantations. | 그 법령은 농장에 있던 수천 명의 노예 노동자를 해방시켰다.
@@ -79,7 +79,7 @@ score_max: 525
 - migration | 이주, 이동 | /maɪˈɡreɪʃən/ | immigration(이민 옴)·emigration(이민 감) 구분 | Climate change triggered a mass migration of farming communities southward. | 기후 변화로 농경 공동체가 대거 남쪽으로 이주했다.
 - trade route | 교역로, 무역로 | /treɪd raʊt/ | Silk Road가 대표 — along a trade route 짝 | Cities along the trade route grew wealthy from taxing caravans. | 교역로를 따라 자리한 도시들은 대상에게 세금을 걷어 부유해졌다.
 - barter | 물물교환하다, 물물교환 | /ˈbɑrtər/ | barter A for B — for 전치사 짝 | Villagers bartered grain for salt before coins came into use. | 동전이 쓰이기 전 마을 사람들은 곡물을 소금과 맞바꿨다.
-- coinage | 화폐 주조, 신조어 | /ˈkɔɪnɪdʒ/ | 새 단어 만들기 뜻도 — a recent coinage | The introduction of standardized coinage simplified trade across the kingdom. | 표준화된 주화의 도입으로 왕국 전역의 교역이 단순해졌다.
+- coinage | 주화, 화폐 주조, 신조어 | /ˈkɔɪnɪdʒ/ | 새 단어 만들기 뜻도 — a recent coinage | The introduction of standardized coinage simplified trade across the kingdom. | 표준화된 주화의 도입으로 왕국 전역의 교역이 단순해졌다.
 - scroll | 두루마리, 스크롤하다 | /skroʊl/ | Dead Sea Scrolls(사해 문서) 고유명 빈출 | The scroll records the temple's donations over a period of fifty years. | 그 두루마리에는 50년에 걸친 신전 기부 내역이 기록되어 있다.
 - parchment | 양피지 | /ˈpɑrtʃmənt/ | 동물 가죽 재료 — papyrus는 식물 재료 | Medieval monks copied the texts by hand onto sheets of parchment. | 중세 수도사들은 양피지에 손으로 글을 옮겨 적었다.
 - papyrus | 파피루스 | /pəˈpaɪrəs/ | paper의 어원 — 복수 papyri | Egyptian scribes recorded tax payments on rolls of papyrus. | 이집트 서기들은 파피루스 두루마리에 세금 납부 내역을 기록했다.

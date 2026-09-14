@@ -14,7 +14,7 @@ score_max: 326
 
 # 입문 008권 — 음식과 외식 — 주문·맛·요리
 
-- hungry | 배고픈 | /ˈhʌŋɡri/ | hungry(배고픈) vs angry(화난) — 철자 한 글자 차이 | I skipped lunch today, so I'm really hungry right now. | 오늘 점심을 걸러서 지금 정말 배고파요.
+- hungry | 배고픈 | /ˈhʌŋɡri/ | hungry(배고픈) vs angry(화난) — 철자·발음이 비슷해 혼동 주의 | I skipped lunch today, so I'm really hungry right now. | 오늘 점심을 걸러서 지금 정말 배고파요.
 - starving | 몹시 배고픈, 굶주린 | /ˈstɑːrvɪŋ/ | 구어 과장 — I'm starving = hungry의 강한 버전 | Let's order some pizza soon because I'm absolutely starving. | 나 진짜 배고파 죽겠으니까 얼른 피자 시키자.
 - full | 배부른, 가득 찬 | /fʊl/ | 음식 권유 거절 빈출 — No thanks, I'm full. | No more cake for me, thanks; I'm already full. | 케이크는 이제 됐어요, 고마워요. 벌써 배불러요.
 - stuffed | 배가 터질 듯한, 속을 채운 | /stʌft/ | 구어 I'm stuffed = full보다 더 꽉 찬 느낌 | That buffet was amazing, but I'm completely stuffed now. | 뷔페가 정말 좋았는데 이제 배가 터질 것 같아.

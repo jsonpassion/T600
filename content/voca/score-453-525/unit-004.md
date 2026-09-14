@@ -18,7 +18,7 @@ score_max: 525
 - chronic | 만성의, 상습적인 | /ˈkrɑːnɪk/ | chron(시간) → 오래 끄는; 반의어 acute | Millions of adults live with chronic back pain that never fully disappears. | 수백만 명의 성인이 완전히 사라지지 않는 만성 요통을 안고 산다.
 - acute | 급성의, 극심한 | /əˈkjuːt/ | 병에선 급성(↔chronic), 일반 문맥에선 극심한·예리한 | She was rushed to the emergency room with acute abdominal pain. | 그녀는 급성 복통으로 응급실에 실려 갔다.
 - contagious | 전염성의, 옮기 쉬운 | /kənˈteɪdʒəs/ | con(함께)+tag(접촉) → 접촉 전염; 웃음에도 씀 | The flu is most contagious during the first three days of symptoms. | 독감은 증상이 나타난 첫 사흘 동안 전염성이 가장 강하다.
-- infectious | 감염성의 | /ɪnˈfekʃəs/ | 공기·물 등 매개 감염 포괄, contagious는 접촉 | Malaria is an infectious disease transmitted through the bites of mosquitoes. | 말라리아는 모기에 물려 전파되는 감염병이다.
+- infectious | 감염성의 | /ɪnˈfekʃəs/ | 병원체 감염 전반(모기·물 매개 포함), contagious는 사람 간 전염 | Malaria is an infectious disease transmitted through the bites of mosquitoes. | 말라리아는 모기에 물려 전파되는 감염병이다.
 - epidemic | 유행병, (병의) 유행 | /ˌepɪˈdemɪk/ | epi(위·퍼짐)+demos(사람) → 한 지역 주민에 퍼진 병 | Health officials warned that the cholera epidemic could spread to neighboring provinces. | 보건 당국은 콜레라 유행이 인접 지방으로 번질 수 있다고 경고했다.
 - pandemic | 세계적 유행병 | /pænˈdemɪk/ | pan(전부) → 전 세계; epidemic보다 범위 넓음 | The pandemic forced governments around the world to close their borders. | 세계적 유행병 때문에 각국 정부는 국경을 닫아야 했다.
 - outbreak | (질병·전쟁의) 발생, 발발 | /ˈaʊtbreɪk/ | break out(발생하다)의 명사형, an outbreak of | An outbreak of measles was reported at an elementary school last week. | 지난주 한 초등학교에서 홍역 발생이 보고되었다.
@@ -75,7 +75,7 @@ score_max: 525
 - exacerbate | (문제·병을) 악화시키다 | /ɪɡˈzæsərbeɪt/ | aggravate보다 격식, 사회 문제에도 씀 | Air pollution can exacerbate asthma symptoms, especially in young children. | 대기 오염은 특히 어린아이들의 천식 증상을 악화시킬 수 있다.
 - deteriorate | 악화되다, 나빠지다 | /dɪˈtɪriəreɪt/ | 자동사 — 주어가 스스로 나빠짐, 목적어 없음 | The patient's condition deteriorated rapidly overnight, and he was moved to intensive care. | 환자 상태가 밤사이 급격히 나빠져 중환자실로 옮겨졌다.
 - afflict | (병·고통이) 괴롭히다 | /əˈflɪkt/ | be afflicted with 수동형 빈출 | Arthritis afflicts millions of older adults, making even simple daily tasks painful. | 관절염은 수많은 노인을 괴롭혀 간단한 일상 활동조차 고통스럽게 만든다.
-- suffer from | ~을 앓다, ~에 시달리다 | /ˈsʌfər frʌm/ | 질병엔 from 필수; suffer losses는 타동사 | Many office workers suffer from neck pain caused by poor posture. | 많은 직장인이 나쁜 자세로 인한 목 통증에 시달린다.
+- suffer from | ~을 앓다, ~에 시달리다 | /ˈsʌfər frʌm/ | 지병엔 from; suffer a stroke·suffer losses는 타동사 | Many office workers suffer from neck pain caused by poor posture. | 많은 직장인이 나쁜 자세로 인한 목 통증에 시달린다.
 - pass away | 돌아가시다 | /pæs əˈweɪ/ | die의 완곡어 — 대화 완성 조문 표현 | I'm so sorry to hear that your grandmother passed away last week. | 지난주에 할머니께서 돌아가셨다니 정말 유감이에요.
 - fight off | (병을) 물리치다 | /faɪt ɔːf/ | off=떨쳐냄; fight off a cold 짝 | Vitamin C won't necessarily help you fight off a cold faster. | 비타민 C가 감기를 더 빨리 이겨내는 데 꼭 도움이 되는 것은 아니다.
 - pull through | (위기·중병을) 이겨내다 | /pʊl θruː/ | 끝까지 끌고 통과 → 살아남다, 대화 빈출 | The doctors weren't sure he would pull through, but he's recovering well. | 의사들은 그가 고비를 넘길지 확신하지 못했지만 그는 잘 회복하고 있다.

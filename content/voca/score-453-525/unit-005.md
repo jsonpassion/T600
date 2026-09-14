@@ -28,7 +28,7 @@ score_max: 525
 - exhibit | 전시하다, 전시품 | /ɪɡˈzɪbɪt/ | exhibit 증상·능력도 ‘보이다’ — 다의어 빈출 | The museum will exhibit more than two hundred works by Impressionist painters this fall. | 그 미술관은 올가을 인상파 화가들의 작품 200여 점을 전시할 예정이다.
 - curator | 큐레이터, 학예사 | /ˈkjʊreɪtər/ | cur(돌보다)+ator(사람) → 소장품을 돌보는 사람 | The curator spent two years selecting pieces for the exhibition on colonial art. | 그 큐레이터는 식민지 시대 미술 전시회를 위해 2년 동안 작품을 선별했다.
 - retrospective | 회고전, 회고하는 | /ˌretrəˈspektɪv/ | retro(뒤로)+spect(보다) → 작가 일생을 되돌아보는 전시 | The gallery is holding a major retrospective of the photographer's fifty-year career. | 그 갤러리는 사진작가의 50년 경력을 조명하는 대규모 회고전을 열고 있다.
-- installation | 설치 미술, 설치 | /ˌɪnstəˈleɪʃən/ | 미술 지문에서는 ‘설치’가 아니라 ‘설치 작품’ | Visitors can walk through the immersive light installation on the museum's top floor. | 방문객들은 미술관 꼭대기 층의 몰입형 빛 설치 작품 사이를 걸어 볼 수 있다.
+- installation | 설치 작품, 설치 미술, 설치 | /ˌɪnstəˈleɪʃən/ | 미술 지문에서는 ‘설치’가 아니라 ‘설치 작품’ | Visitors can walk through the immersive light installation on the museum's top floor. | 방문객들은 미술관 꼭대기 층의 몰입형 빛 설치 작품 사이를 걸어 볼 수 있다.
 - sculpture | 조각, 조각품 | /ˈskʌlptʃər/ | sculptor=조각가, sculpture=작품 — 사람/사물 구분 | The bronze sculpture in the town square was damaged during last week's storm. | 광장의 청동 조각상이 지난주 폭풍으로 손상되었다.
 - still life | 정물화 | /ˌstɪl ˈlaɪf/ | still(움직이지 않는)+life → 복수형은 still lifes | The museum's collection includes a small still life of lemons and a silver jug. | 그 미술관 소장품 중에는 레몬과 은 주전자를 그린 작은 정물화가 있다.
 - canvas | 캔버스, 화폭 | /ˈkænvəs/ | canvas=화폭, canvass=선거 운동·여론 조사 | The artist applied thick layers of paint directly onto the canvas with a knife. | 그 화가는 나이프로 캔버스 위에 물감을 두껍게 직접 덧발랐다.

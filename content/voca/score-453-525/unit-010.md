@@ -27,7 +27,7 @@ score_max: 525
 - take on | 떠맡다, 고용하다 | /teɪk ɑːn/ | take on responsibility·a new meaning 짝 | The firm is reluctant to take on additional staff during the downturn. | 그 회사는 불황기에 직원을 추가로 고용하길 꺼린다.
 - take in | 속이다, (정보를) 받아들이다 | /teɪk ɪn/ | be taken in=속다 수동형 빈출, 정보 흡수 뜻도 | Many elderly investors were taken in by the fraudulent scheme. | 많은 노년 투자자들이 그 사기 수법에 속아 넘어갔다.
 - take after | (부모를) 닮다 | /teɪk ˈæftər/ | 혈연 윗사람만 목적어, 진행형 불가 | You really take after your father when it comes to fixing things. | 물건 고치는 거라면 너 정말 아버지를 쏙 빼닮았구나.
-- give out | 바닥나다, 나눠주다 | /ɡɪv aʊt/ | 자동사면 엔진·체력이 다하다 — hand out과 구분 | Food supplies at the shelter may give out before aid trucks arrive. | 구호 트럭이 도착하기 전에 대피소의 식량이 바닥날 수도 있다.
+- give out | 바닥나다, 나눠주다 | /ɡɪv aʊt/ | 자동사면 식량·체력이 바닥나다, 타동사면 hand out처럼 나눠주다 | Food supplies at the shelter may give out before aid trucks arrive. | 구호 트럭이 도착하기 전에 대피소의 식량이 바닥날 수도 있다.
 - give up on | ~에 대한 기대를 버리다 | /ɡɪv ʌp ɑːn/ | give up=그만두다, on이 붙으면 사람·희망 포기 | Don't give up on him yet; he just needs a little more time. | 아직 그에 대한 기대를 버리지 마, 시간이 조금 더 필요할 뿐이야.
 - hold back | 억제하다, 망설이다 | /hoʊld bæk/ | hold back tears·information 짝, 감정 억누르기 | Investors are holding back until the central bank announces its decision. | 투자자들은 중앙은행이 결정을 발표할 때까지 관망하고 있다.
 - hold off | 미루다, 막아내다 | /hoʊld ɔːf/ | hold off on -ing=보류하다, postpone과 동의 | The committee decided to hold off on the vote until more data arrive. | 위원회는 자료가 더 들어올 때까지 표결을 미루기로 했다.
@@ -73,7 +73,7 @@ score_max: 525
 - do away with | 폐지하다 | /duː əˈweɪ wɪð/ | abolish의 구어형, 제도·규정 목적어 | Several states have voted to do away with the death penalty. | 여러 주가 사형 제도를 폐지하기로 의결했다.
 - bring down | 끌어내리다, (가격을) 낮추다 | /brɪŋ daʊn/ | bring down prices·a government 두 뜻 | The scandal threatened to bring down the entire administration. | 그 스캔들은 행정부 전체를 무너뜨릴 기세였다.
 - bring on | 초래하다, 유발하다 | /brɪŋ ɑːn/ | 병·증상 유발 — bring about보다 부정적 | Stress can bring on migraines in people who are prone to them. | 스트레스는 편두통이 잘 생기는 사람에게 편두통을 일으킬 수 있다.
-- boil down to | 요컨대 ~이다 | /bɔɪl daʊn tuː/ | 졸여서 핵심만 남기기 → come down to와 동의 | The whole dispute boils down to a disagreement over money. | 모든 분쟁은 결국 돈 문제에 대한 의견 차이로 요약된다.
+- boil down to | 요컨대 ~이다 | /bɔɪl daʊn tuː/ | 졸여서 핵심만 남기기 → come down to와 동의 | The whole dispute boils down to a disagreement over money. | 그 분쟁은 결국 돈 문제를 둘러싼 의견 차이로 요약된다.
 - butt in | (무례하게) 끼어들다, 참견하다 | /bʌt ɪn/ | cut in보다 무례한 뉘앙스, butt in on 대화 | I hate to butt in, but I think you've got the date wrong. | 끼어들어 죄송하지만 날짜를 잘못 알고 계신 것 같아요.
 - cave in | 굴복하다, 무너지다 | /keɪv ɪn/ | cave in to pressure·demands 짝 — to 전치사 | The government eventually caved in to pressure from farmers. | 정부는 결국 농민들의 압력에 굴복했다.
 - clamp down on | 단속하다 | /klæmp daʊn ɑːn/ | crack down on과 동의, clamp=죔쇠로 조이다 | Authorities are clamping down on illegal street vendors downtown. | 당국이 도심의 불법 노점상을 단속하고 있다.

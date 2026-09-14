@@ -29,7 +29,7 @@ score_max: 525
 - recount | 재검표, 다시 세다 | /ˈriˌkaʊnt/ | 동사 recount는 '자세히 이야기하다'도 — 다의어 | The losing candidate demanded a recount after the margin fell below one percent. | 표차가 1퍼센트 미만으로 줄자 낙선 후보는 재검표를 요구했다.
 - concede | (패배를) 인정하다, 양보하다 | /kənˈsid/ | concede defeat 짝, 명사 concession(양보) | After a bitter contest, the challenger finally conceded defeat late on election night. | 치열한 접전 끝에 도전자는 선거일 밤늦게 결국 패배를 인정했다.
 - inauguration | 취임식, 개시 | /ɪˌnɔɡjəˈreɪʃən/ | 동사 inaugurate — 취임 연설 inaugural address | Thousands of supporters gathered in the capital to witness the inauguration ceremony. | 수천 명의 지지자가 취임식을 보기 위해 수도에 모였다.
-- legislature | 입법부, 의회 | /ˈlɛdʒɪsˌleɪtʃər/ | legis(법)+lator(제안자) — legislation은 '입법' | The state legislature passed the budget just hours before the fiscal deadline. | 주 의회는 회계 마감 몇 시간 전에야 예산안을 통과시켰다.
+- legislature | 입법부, 의회 | /ˈlɛdʒɪsˌleɪtʃər/ | legislator(입법자)+-ure(기관) — legislation은 '입법' | The state legislature passed the budget just hours before the fiscal deadline. | 주 의회는 회계 마감 몇 시간 전에야 예산안을 통과시켰다.
 - veto | 거부권(을 행사하다) | /ˈvitoʊ/ | 라틴어 '나는 금한다' — override a veto 짝 | The governor vetoed the bill, arguing that it would burden small businesses. | 주지사는 그 법안이 소상공인에게 부담을 줄 것이라며 거부권을 행사했다.
 - ratify | (조약을) 비준하다 | /ˈrætəˌfaɪ/ | 목적어는 treaty·agreement — 명사 ratification | Parliament must ratify the trade agreement before it can take effect. | 무역 협정이 발효되려면 의회가 먼저 비준해야 한다.
 - amendment | 개정(안), 수정 조항 | /əˈmɛndmənt/ | amend(법 개정) vs emend(원고 교정) 혼동 주의 | Lawmakers proposed an amendment to limit the number of terms a president may serve. | 의원들은 대통령의 연임 횟수를 제한하는 개정안을 발의했다.
