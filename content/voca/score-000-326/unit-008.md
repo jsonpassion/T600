@@ -24,7 +24,7 @@ score_max: 326
 - waiter | (남자) 종업원 | /ˈweɪtər/ | wait(시중들다)+er — 여성형 waitress | The waiter recommended the grilled salmon as tonight's special. | 종업원이 오늘 밤 특선으로 연어구이를 추천했다.
 - server | 서빙 직원, 종업원 | /ˈsɜːrvər/ | 성별 중립 표현 — waiter/waitress 대신 씀 | Our server was friendly and brought our food quickly. | 서빙해 준 직원이 친절했고 음식도 빨리 가져다주었다.
 - table for two | 2인석 | /ˈteɪbəl fər tuː/ | 입장 시 인원 말하기 — A table for two, please. | Hi, do you have a table for two by the window? | 안녕하세요, 창가 쪽에 2인석 있나요?
-- book a table | 테이블을 예약하다 | /bʊk ə ˈteɪbəl/ | book=reserve — make a reservation과 같은 뜻 | I'd like to book a table for four at seven tonight. | 오늘 저녁 7시에 4인 테이블을 예약하고 싶어요.
+- book a table | 테이블을 예약하다 | /bʊk ə ˈteɪbəl/ | book=reserve — make a reservation과 같은 뜻 | It's always busy on Fridays, so let's book a table in advance. | 금요일엔 늘 붐비니까 미리 테이블을 예약하자.
 - takeout | 포장 음식, 테이크아웃 | /ˈteɪkaʊt/ | 영국식은 takeaway — 미국식 takeout과 같은 말 | We're too tired to cook, so let's just get takeout. | 너무 피곤해서 요리 못 하겠으니 그냥 포장해 오자.
 - to go | 포장해 가는 | /tə ɡoʊ/ | For here or to go? — 짝으로 묻는 대화 빈출 | I'll have a large coffee to go, please. | 큰 사이즈 커피 하나 포장해 주세요.
 - for here | 매장에서 먹는 | /fər hɪr/ | to go의 반대 — 매장 식사면 For here. | Is this order for here, or would you like it to go? | 드시고 가세요, 아니면 포장해 드릴까요?

@@ -91,7 +91,7 @@ score_max: 600
 - bear out | (주장을) 뒷받침하다, 입증하다 | /ber ˈaʊt/ | 주어는 사실·자료 — The data bear out the claim | The latest figures bear out the doctor's early suspicions about the outbreak. | 최신 수치는 발병에 대한 그 의사의 초기 의심이 옳았음을 뒷받침한다.
 - shed light on | ~을 밝히다, 해명하다 | /ˈʃed ˈlaɪt ɑːn/ | throw light on도 같은 뜻 — 전치사 on까지 | The newly discovered letters shed light on the poet's final years. | 새로 발견된 편지들은 그 시인의 말년을 밝혀 준다.
 - lend credence to | ~에 신빙성을 더하다 | /ˈlend ˈkriːdəns tuː/ | give credence to=믿다 / lend=신빙성 부여 구분 | The new fossils lend credence to the theory of an earlier migration. | 새로운 화석은 더 이른 시기의 이주설에 신빙성을 더한다.
-- stand up to scrutiny | 면밀한 검토를 견뎌 내다 | /ˈstænd ʌp tə ˈskruːtəni/ | 주로 부정문 — doesn't stand up to scrutiny | The company's claims about its emissions do not stand up to scrutiny. | 배출량에 대한 그 회사의 주장은 면밀한 검토를 견뎌 내지 못한다.
+- stand up to scrutiny | 면밀한 검토를 견뎌 내다 | /ˈstænd ʌp tə ˈskruːtəni/ | stand up(일어서다)과 달리 '조사에도 버티다', 주로 부정문 | The company's claims about its emissions do not stand up to scrutiny. | 배출량에 대한 그 회사의 주장은 면밀한 검토를 견뎌 내지 못한다.
 - delve into | ~을 깊이 파고들다 | /ˈdelv ˈɪntuː/ | 전치사 into 고정 — dig into와 유사, 문어·보고서 빈출 | The documentary delves into the origins of the financial crisis. | 그 다큐멘터리는 금융 위기의 기원을 깊이 파고든다.
 - hypothesize | 가설을 세우다, 가정하다 | /haɪˈpɑːθəsaɪz/ | hypo(아래)+thesis(놓음) — 명사 hypothesis | Researchers hypothesized that sleep loss impairs long-term memory. | 연구진은 수면 부족이 장기 기억을 손상시킨다는 가설을 세웠다.
 - presupposition | 전제, 가정 | /ˌpriːsʌpəˈzɪʃən/ | pre(미리)+suppose → 말 속에 깔린 숨은 가정 | The argument rests on the presupposition that markets are always rational. | 그 논증은 시장이 항상 합리적이라는 전제에 기대고 있다.

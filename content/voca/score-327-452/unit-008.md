@@ -24,7 +24,7 @@ score_max: 452
 - grow apart | (시간이 지나며) 사이가 멀어지다 | /ɡroʊ əˈpɑːrt/ | drift apart와 동의 — 반대는 grow closer | Childhood friends often grow apart as their interests and careers change. | 어릴 적 친구들은 관심사와 진로가 달라지면서 멀어지는 경우가 많다.
 - get along with | ~와 잘 지내다 | /ɡet əˈlɔːŋ wɪð/ | 영국식 get on with도 같은 뜻 — get along well with 짝 | Do you get along with the new manager, or is she hard to work with? | 새 매니저랑은 잘 지내? 아니면 같이 일하기 힘든 사람이야?
 - hit it off | (만나자마자) 죽이 맞다 | /hɪt ɪt ɔːf/ | 주로 첫 만남 — hit it off with 사람·right away 짝 | I introduced Mark to my cousin, and they hit it off right away. | 마크를 사촌에게 소개해 줬더니 둘이 곧바로 죽이 맞았어.
-- get on someone's nerves | ~의 신경을 거스르다 | /ɡet ɑːn ˈsʌmwʌnz nɜːrvz/ | nerves 복수형 필수 — 주어는 짜증 유발자 | His constant humming during meetings really gets on my nerves. | 회의 중에 그가 계속 흥얼거리는 게 정말 신경에 거슬려.
+- get on someone's nerves | ~의 신경을 거스르다 | /ɡet ɑːn ˈsʌmwʌnz nɜːrvz/ | get on(타다)과 별개 관용구 — nerves 복수, 주어는 짜증 유발자 | His constant humming during meetings really gets on my nerves. | 회의 중에 그가 계속 흥얼거리는 게 정말 신경에 거슬려.
 - rub someone the wrong way | ~의 기분을 건드리다, 비위를 거스르다 | /rʌb ˈsʌmwʌn ðə rɔːŋ weɪ/ | 고양이 털을 거꾸로 쓰다듬기 → 이유 없이 거슬리는 인상 | Something about his arrogant tone rubbed the interviewers the wrong way. | 그의 거만한 말투에는 면접관들의 비위를 거스르는 무언가가 있었다.
 - pick a fight | 싸움을 걸다 | /pɪk ə faɪt/ | pick a fight with 사람 — 일부러 시비 거는 뉘앙스 | He was in a bad mood and tried to pick a fight with everyone at dinner. | 그는 기분이 나빠서 저녁 자리에서 모두에게 시비를 걸려고 했다.
 - pick on | ~을 괴롭히다, 트집 잡다 | /pɪk ɑːn/ | 약자를 반복해 놀리는 것 — bully보다 가벼움 | Stop picking on your little brother and help him with his homework. | 동생 좀 그만 괴롭히고 숙제나 도와줘.
@@ -48,7 +48,7 @@ score_max: 452
 - talk back | 말대꾸하다 | /tɔːk bæk/ | talk back to 윗사람 — 부모·상사에게 대드는 상황 | My grandmother never allowed us to talk back to adults. | 할머니는 우리가 어른에게 말대꾸하는 걸 절대 허락하지 않으셨다.
 - put down | 깎아내리다, 무시하다 | /pʊt daʊn/ | put-down(명사)=모욕적인 말 — '내려놓다'와 문맥 구분 | A good leader encourages the team instead of putting people down. | 좋은 리더는 사람들을 깎아내리지 않고 팀을 격려한다.
 - look down on | ~을 얕보다, 무시하다 | /lʊk daʊn ɑːn/ | 반의어 look up to와 세트로 출제 | Some people look down on those who never went to university. | 대학에 가지 않은 사람들을 얕보는 이들이 있다.
-- look up to | ~을 존경하다 | /lʊk ʌp tuː/ | respect·admire의 구어 — to는 전치사 | Many young players look up to him as a role model. | 많은 젊은 선수들이 그를 롤모델로 존경한다.
+- look up to | ~을 존경하다 | /lʊk ʌp tuː/ | look up(찾아보다)과 달리 to가 붙으면 '존경하다' | Many young players look up to him as a role model. | 많은 젊은 선수들이 그를 롤모델로 존경한다.
 - stand by | ~의 곁을 지키다, 지지하다 | /stænd baɪ/ | stand by 사람=지지, stand by(자동사)=대기하다 | Her husband has promised to stand by her throughout the scandal. | 남편은 스캔들 내내 그녀의 곁을 지키겠다고 약속했다.
 - stick up for | ~을 옹호하다, 편들다 | /stɪk ʌp fɔːr/ | 괴롭힘당하는 사람을 감싸는 구어 — defend의 구어체 | Thanks for sticking up for me when the boss blamed me unfairly. | 사장님이 부당하게 날 탓할 때 편들어 줘서 고마워.
 - side with | ~의 편을 들다 | /saɪd wɪð/ | side against=반대편에 서다, take sides=한쪽 편을 들다 | The board sided with the CEO in the dispute over the merger. | 이사회는 합병 관련 분쟁에서 CEO의 편을 들었다.
